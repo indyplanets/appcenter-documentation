@@ -1,0 +1,10 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "AppCenter Documentation",
+  "author": "Jeremy Wilken <jeremy.wilken@teradata.com",
+  "license": "MIT",
+  "dependencies": {
+    "bootprint-openapi": "^0.17.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "swagger",
+    "-lunr"
+  ]
+}
