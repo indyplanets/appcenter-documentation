@@ -1,0 +1,131 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Used to query service logs",
+        "version": "1.0",
+        "title": "Log Service API",
+        "termsOfService": "http://uda.io",
+        "contact": {
+            "name": "appcenter"
+        },
+        "license": {
+            "name": "Git Hub",
+            "url": "https://github.td.teradata.com/appcenter/logging-service"
+        }
+    },
+    "host": "appcenter-logging-services-int.ac.uda.io:443",
+    "basePath": "/",
+    "tags": [
+        {
+            "name": "log-controller",
+            "description": "Log Controller"
+        }
+    ],
+    "paths": {
+        "/logs": {
+            "get": {
+                "tags": [
+                    "log-controller"
+                ],
+                "summary": "Get logs for an app",
+                "description": "Get app logs based on filter and type",
+                "operationId": "getAppLogsUsingGET",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "*/*"
+                ],
+                "parameters": [
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "description": "Type of logs",
+                        "required": false,
+                        "type": "string",
+                        "default": "services",
+                        "enum": [
+                            "apps",
+                            "services"
+                        ]
+                    },
+                    {
+                        "name": "app_id",
+                        "in": "query",
+                        "description": "Identifier of app",
+                        "required": false,
+                        "type": "string"
+                    },
+                    {
+                        "name": "service",
+                        "in": "query",
+                        "description": "Service name. Available services [user-service, app-service, log-service]",
+                        "required": false,
+                        "type": "string"
+                    },
+                    {
+                        "name": "level",
+                        "in": "query",
+                        "description": "Log level",
+                        "required": false,
+                        "type": "string",
+                        "default": "all",
+                        "enum": [
+                            "all",
+                            "runtime",
+                            "error"
+                        ]
+                    },
+                    {
+                        "name": "q",
+                        "in": "query",
+                        "description": "q",
+                        "required": false,
+                        "type": "string"
+                    },
+                    {
+                        "name": "start_time",
+                        "in": "query",
+                        "description": "Start time for date range of logs. Time format should follow UTC ISO8601 (e.g. 2016-03-16T05:25:30.576Z)",
+                        "required": false,
+                        "type": "string"
+                    },
+                    {
+                        "name": "end_time",
+                        "in": "query",
+                        "description": "End time for date range of logs. Time format should follow UTC ISO8601 (e.g. 2016-03-16T05:25:30.576Z)",
+                        "required": false,
+                        "type": "string"
+                    },
+                    {
+                        "name": "Authorization",
+                        "in": "header",
+                        "description": "Authorization",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successfully returned list of app logs",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/Map«string,object»"
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request"
+                    },
+                    "401": {
+                        "description": "Unauthorized to query or could not be found"
+                    },
+                    "500": {
+                        "description": "Data store not configured or unreachable"
+                    }
+                }
+            }
+        }
+    }
+}
