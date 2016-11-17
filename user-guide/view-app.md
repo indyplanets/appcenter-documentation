@@ -1,3 +1,3 @@
 # Viewing an App
 
-You are able to view any apps that you create, that are public, or that you've been added to as a collaborator or owner.
+You can view the apps you create, apps for which you have been added as a Manager, or public apps.
