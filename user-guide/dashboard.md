@@ -1,3 +1,3 @@
 # Dashboard
 
-Once you have logged in, the dashboard will appear for AppCenter. This contains a list of the apps which you have access to view and run.
+When you log in, AppCenter takes you to the Dashboard. From the Dashboard, you can perform the following tasks:
