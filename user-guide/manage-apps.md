@@ -1,1 +1,1 @@
-Only the user who creates the app or who has Manager permissions for an app will see the app in the Dashboard and have access to it from **Manage Apps**.
+Only the user who creates the app or who has Manager permissions for the app will be apple to access it from **Manage Apps**.
