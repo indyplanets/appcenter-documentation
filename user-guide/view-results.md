@@ -1,4 +1,4 @@
-# Viewing Results
+# Viewing App Results
 
-Once apps have completed running successfully, any results generated will be available to view. 
+Once an app has finished running successfuly, you can view the results...
 
