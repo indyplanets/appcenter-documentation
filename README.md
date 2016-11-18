@@ -59,7 +59,7 @@ A Teradata team member will review any pull requests, confirm we received the DP
 For help writing and formatting your comments, the following GitHub resources may be helpful:
 
 - [Basic Writing and Formatting Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [Printable Markdown Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+- [Printable Markdown Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 ---
