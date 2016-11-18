@@ -1,0 +1,15 @@
+{
+  "name": "appcenter-documentation",
+  "version": "2.0.0",
+  "description": "AppCenter Documentation is all contained in this repository.",
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/gnomeontherun/listener.git"
+  },
+  "author": "Jeremy Wilken <jeremy.wilken@teradata.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-plugin-snippets": "^1.0.1",
+    "gitbook-plugin-versions": "^2.1.3"
+  }
+}
