@@ -2,5 +2,5 @@ When you log into AppCenter as a regular or Admin user, AppCenter takes you to t
 
 ## Browsing Apps in the Dashboard
 
-1. From any view, click ![Menu Button](/images/menu-button.png), and then click **Browse Apps**.
+1. From any view, click ![alt text](https://github.td.teradata.com/appcenter/documentation/user-guide/images/menu-button.png"), and then click **Browse Apps**.
 
