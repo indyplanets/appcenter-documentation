@@ -1,6 +1,6 @@
-When you log in, AppCenter takes you to the dashboard, which displays existing apps in Grid view. You can browse apps a couple of different way.
+When you log into AppCenter as a regular or Admin user, AppCenter takes you to the Dashboard. The Dashboard displays existing apps in Grid format. You can return to the Dashboard to browse apps from any view.
 
-## Browsing Apps using the Navigation Panel
+## Browsing Apps in the Dashboard
 
-1. From any view, click 
+1. From any view, click !(/images/menu-button.png), and then click **Browse Apps**.
 
