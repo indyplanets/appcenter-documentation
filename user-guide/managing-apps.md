@@ -1,3 +1,10 @@
-Only the user who creates the app or who has Manager permissions for the app will be apple to access it from **Manage Apps**.
+Managing apps includes viewing the list of apps to which you have access, editing apps, and deleting apps. 
 
-Comment: Topic will include instructions for editing the app and deleting the app. Eventually, user will be able to edit and delete app from the dashboard as well.
+## Accessing the Manage Apps View
+
+1. From any view, click the menu button in the upper-left corner, and then click **Manage Apps**. AppCenter displays the apps in list view by default.
+2. [Optional] To display apps in grid view, click the grid button in the upper-right corner.
+
+## Editing an App
+
+Continue Tuesday 11/29.
