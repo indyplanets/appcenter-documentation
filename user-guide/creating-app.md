@@ -1,6 +1,9 @@
-You can create apps from the Dashboard or **Manage Apps** view.
+You can create the following types of apps from the Dashboard or **Manage Apps** view:
+* SQL
+* BTEQ
+* Java
 
-1. From the **Dashboard** or **Manage Apps**, click the orange floating action button. 
+1. From the **Dashboard** or **[Manage Sources](managing-sources.md)**, click the orange floating action button. 
 2. In the **App Info** card, complete the entries, and then click **Save**.
  
  **Note**:  Once you select the **App Type** and save the **App Info**, you cannot edit **App Type**.
