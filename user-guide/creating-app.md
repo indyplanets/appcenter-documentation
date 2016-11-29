@@ -18,7 +18,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **Manage Apps** vie
    10. [Optional] To add additional Managers (also called collaborators), begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a collaborator for the app.
    11. [Optional] To make this app public instead of private, click the slider next to **Privacy On**. Click it again to make this app private again.
    12. [Optional] To add additional users to a private app, click the line below **Private users**, type the name of the user, and then press **Enter**.
-
+ 
 13, Click **Save & Continue**.
 
 For more information about user types and roles, see **[User Types and Roles](user-types.md)**.
