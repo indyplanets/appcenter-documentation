@@ -3,7 +3,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **Manage Apps** vie
 1. From the **Dashboard** or **[Manage Apps](managing-apps.md)** view, click the orange floating action button. 
 2. In the **App Info** card, complete the entries, and then click **Save**.
  
- **Note**:  Once you select the **App Type** and save the **App Info**, you cannot edit **App Type**.
+ **Note**:  Once you save the **App Info** card information, you cannot edit **App Type**.
 3. In the **App Code** card, do one of the following:
   * Click **Choose a File**, select the code file, and when the name of the file appears on the button, click it.
   * Drag the code file on top of the **Choose a File button**, and when the name of the file appears on the button, click the button.
