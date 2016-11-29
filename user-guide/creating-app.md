@@ -1,4 +1,5 @@
 You can create the following types of apps from the Dashboard or **Manage Apps** view:
+
 * SQL
 * BTEQ
 * Java
