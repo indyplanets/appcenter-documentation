@@ -8,3 +8,5 @@ Managing apps includes viewing the list of apps to which you have access, editin
 ## Editing an App
 
 Continue Tuesday 11/29.
+
+For more information about user types and roles, see **[User Types and Roles](user-types.md)**.
