@@ -21,4 +21,4 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **Manage Apps** vie
 
 13, Click **Save & Continue**.
 
-For more information about user types and roles, **[User Types and Roles](user-types.md)**.
+For more information about user types and roles, see **[User Types and Roles](user-types.md)**.
