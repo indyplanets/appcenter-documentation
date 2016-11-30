@@ -1,4 +1,16 @@
+## App Permissions
 
+Each app includes **App Permissions**, which determine who can view the app, run the app, edit the app, or delete the app. The **App Permissions** settings including the following:
+
+| Permission  | Description |
+| ------------- | ------------- |
+| **Managers**  | The app creator is the default manager. You can other users as managers, which means they can edit and delete this app. |
+| **Privacy**  | Content Cell  |
+
+
+
+
+## User Types
 User type and role determines which AppCenter features you have access to, which apps you can see and run, and which apps you can manage (edit and delete). 
 
 There are three user types:
