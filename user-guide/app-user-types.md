@@ -1,19 +1,25 @@
-## App Permissions
 
-Each app includes **App Permissions**, which determine who can view the app, run the app, edit the app, or delete the app. The **App Permissions** settings including the following:
+App Permissions and User Types
+
+The combination of the app's permission settings and the type of user type logged in determines who can see the app, run the app and view results, and edit and delete the app.
+
+## App Permissions
 
 | Permission  | Description |
 | ------------- | ------------- |
-| **Managers**  | The app creator is the default manager. You can other users as managers, which means they can edit and delete this app. |
-| **Privacy**  | Content Cell  |
-
-
-
+| **Managers**  | The user who creates an app is the app's first manager. A manager or Admin can view, edit, and delete apps, and can add or remove other managers.|
+| **Privacy**  | When you create an app, the **Privacy On** option is selected by default; this means only managers, Admins, or designated private users can see the app. Managers and Admins can turn privacy off to make the app public, which means the app can be and  add or remove other private users. Added private users who are not managers or Admins, can view the app, run the app, and review app results.
 
 ## User Types
-User type and role determines which AppCenter features you have access to, which apps you can see and run, and which apps you can manage (edit and delete). 
 
-There are three user types:
+User types include the following:
+
+| User  | Description |
+| ------------- | ------------- |
+| **User** (non-admin and non-manager) | View, run, and see results for public apps.|
+| **Privacy**  | When you create an app, it is private by default. Managers and Admins can see private apps, turn privacy off, and  add or remove other private users. Added private users who are not managers or Admins, can view the app, run the app, and review app results.
+
+There are three primary user types:
 
 * User
 * Admin
