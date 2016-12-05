@@ -1,7 +1,5 @@
 
-App Permissions and User Types
-
-The combination of the app's permission settings and the type of user type logged in determines who can see the app, run the app and view results, and edit and delete the app.
+The combination of an app's permission settings and role of users logged in determines who can see the app, run the app, view results, and edit and delete the app.
 
 ## App Permissions
 
