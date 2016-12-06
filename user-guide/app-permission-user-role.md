@@ -1,23 +1,18 @@
+The combination of app permission settings, job results privacy settings, and the role of the users logged in termines who can see the app, run the app, view app results, and edit and delete the app.
 
-The combination of the following settings determines who can see the app, run the app, view app results, and edit and delete the app:
-
-* App permission settings
-* Job results privacy setting
-* Role of each user logged in
-https://github.td.teradata.com/appcenter/documentation/settings
 ## App Permissions
 
 **App Permissions** determine who has access to the apps and are available at the bottom of the **Create/Edit App** view.
 
 | App Permission| Description |
 | ------------- | ------------- |
-| **Managers**  | When you create an app, AppCenter automatically adds you as a Manager. App Managers can can do the following: <ul><li>View app settings</li><li>View app results</li><li>Edit the app</li><li>Delete the app</li><li>Add or remove Managers</li></ul>|
-| **Privacy**  | When you create an app, AppCenter automaticcally selects the **Privacy On** option, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public so everyone can see it. |
-| **Private users** | Private users for the app can do the following: <ul><li>View the app n the Dashboard or **Manage Apps** view</li><li>View the list of app results.</li></ul>|
+| **Managers**  | When you create an app, AppCenter automatically adds you as a Manager. App Managers can can do the following: <ul><li>View the app</li><li>View app results</li><li>Edit the app</li><li>Delete the app</li><li>Add or remove Managers</li></ul>|
+| **Privacy**  | When you create an app, AppCenter automatically selects the **Privacy On** option, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public so everyone can see it. |
+| **Private users** | Private users for the app can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view</li><li>View the list of app results.</li></ul>|
 
-## App Job Results Permissions
+## Share job results Permissions
 
-**App Job Results Permissions** determine who has access to a specific job result or all job results. Job results are available under **Recent Activity**.
+**Share job results** determines who can see the app's job results. By default, job results privacy is off, which means app Managers can see the actual results and Private users can see the app run history list without result details. If you make results private, only you can share all results or specific results with only the users you specify.  Job results are available under **Recent Activity**.
 
 | Job Results Permission| Description |
 | ------------- | ------------- |
