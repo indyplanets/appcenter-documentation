@@ -4,7 +4,7 @@ The combination of app permission settings, job results privacy settings, and th
 
 **App Permissions** determines who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view.
 
-App privacy is separate from job results privacy. For more information about the job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
+App privacy is separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
 
 | App Permission| Description |
 | ------------- | ------------- |
@@ -16,40 +16,18 @@ App privacy is separate from job results privacy. For more information about the
 
 **Share job results** determines who can see the app's actual job results. By default, privacy is off.
 
-, which means the Manager who created the app can see the actual results and Private users can see only the app run history list without result details. **Share job results** settings are available under **Recent Activity**.
-
-If you make results private, you can see them and then share all results or specific results with only the users you specify. 
-
 Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
 
 | Job Results Permission| Description |
 | ------------- | ------------- |
-| **Privacy off**  | **Privacy off** is the default setting, which provides the following access to job results: <ul><li>For public apps, job results are available to all users.</li><li> For private apps, job results are available to the Manager who created the app and the app's Private users.</li></ul> |
-| **Privacy On**  | For public and private apps, job results are available to the Manager who created the app and only those users who have been added under **Share job results**. |
+| **Privacy off**  | Provides the following access to job results: <ul><li>For public apps, job results are available to all users.</li><li> For private apps, job results are available to the Manager who created the app and the app's Private users.</li></ul> |
+| **Privacy On**  | Provides restricted access to all or individual job results. For public and private apps, job results are available to the Manager who created the app and to only those users who have been granted shared access to an individual result or all results under **Share job results**. |
 
 ## User Roles
 
-User types include the following:
+User role is affected by app permissions job results permissions. For more information about app permissions, see [App Permissions](#app-permissions) and [Share Job Results Permissions](#share-job-results-permissions).
 
 | User  Role| Description |
 | ------------- | ------------- |
-| **User** | Regular user who is not an Admin, Manager, or root user. A regular user can perform the following tasks:<ul><li>Create apps</li><li>View app results for the apps they create or for which they have been designated as a private user in **Share job results**</li><li>Share app results for the apps they create</li><li>Edit and delete apps they create</li>
-| **Manager**  | When you create an app, AppCenter automatically adds you as a Manager. For more information about the tasks Managers can perform, see [App Permissions](#app-permissions).
-
-There are three primary user types:
-
-* User
-* Admin
-* System Administrator
-
-## User
-
-As a user, you can do the following:
-* View, run, and see results for public apps.
-* Create public or private apps.
-* View, run, edit, and delete apps you create. 
-* View logs associated with apps you create. 
-* Add other users as **Private users** to private apps you create.
-* Add other users as **Managers** to the private or public apps you create, which enables them to run, edit, and delete the app.
-* View private apps created by other users who added you as a **Private user**.
-* View, run, edit, and delete apps created by other users who added you to **Managers**.
+| **User** | Any logged-in user who is not an Admin or root user. A user can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they create (edit and delete apps).</li><li>View app results for the apps they create or for which they have been granted shared access.</li><li>Share app job results for the apps they create</li><li>View a list of job results for apps to which they have been added as a Private user.</li>
+| **Admin**  | An Admin can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they, non-Admins, or other Admin users create (edit and delete apps).</li><li>View actual app results for the apps they create or for which they have been granted shared access.</li><li>Share app job results for the apps they create</li><li>View a list of job results for apps to which they have been added as a Private user.</li><li>Access the Admin Dashboard for information about total apps, total authors, executed jobs, metrics, and more.</li><li>Manage users (promote users to and demote users from Admin status.</li><li>View System and Audit Logs.</li>
