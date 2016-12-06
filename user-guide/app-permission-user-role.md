@@ -1,20 +1,23 @@
 
-The combination of an app's permission settings and role of users logged in determines who can see the app, run the app, view results, and edit and delete the app.
+The combination of an app's permission settings, the roles of users logged in, and job results privacy settings, determines who can see the app, run the app, view app results, and edit and delete the app. 
 
 ## App Permissions
 
+**App Permissions** are available at the bottom of the **Create/Edit App** view.
+
 | Permission  | Description |
 | ------------- | ------------- |
-| **Managers**  | The user who creates an app is the app's first manager. A manager or Admin can view, edit, and delete apps, and can add or remove other managers.|
-| **Privacy**  | When you create an app, the **Privacy On** option is selected by default; this means only managers, Admins, or designated private users can see the app. Managers and Admins can turn privacy off to make the app public, which means the app can be and  add or remove other private users. Added private users who are not managers or Admins, can view the app, run the app, and review app results.
+| **Managers**  | When you create an app, AppCenter adds you as a Manager by default. App Managers can can view app settings and app results, edit and delete apps, and add or remove Managers.|
+| **Privacy**  | When you create an app, the **Privacy On** option is selected by default, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public, which means everyone can see the app. |
+| **Private users**  | Private users for the app can view the app, run the app, and view the app's job results. <br> **Note**: If you are a Private user for an app that has restricted results, you must also be added as a user to those results.|
 
-## User Types
+## User Roles
 
 User types include the following:
 
 | User  | Description |
 | ------------- | ------------- |
-| **User** (non-admin and non-manager) | View, run, and see results for public apps.|
+| **User** | <ul><li>View, run, see results for, edit, and delete apps they manage.</li><li>item2</li></ul>|
 | **Privacy**  | When you create an app, it is private by default. Managers and Admins can see private apps, turn privacy off, and  add or remove other private users. Added private users who are not managers or Admins, can view the app, run the app, and review app results.
 
 There are three primary user types:
