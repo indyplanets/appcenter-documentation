@@ -1,4 +1,4 @@
-The combination of app permission settings, job results privacy settings, and the role of the users logged in termines who can see the app, run the app, view app results, and edit and delete the app.
+The combination of app permission settings, job results privacy settings, and the role of the users logged in determines who can see the app, run the app, view app results, and edit and delete the app.
 
 ## App Permissions
 
@@ -25,9 +25,9 @@ Job results privacy is separate from app privacy. For more information about app
 
 ## User Roles
 
-User role is affected by app permissions job results permissions. For more information about app permissions, see [App Permissions](#app-permissions) and [Share Job Results Permissions](#share-job-results-permissions).
+The three user roles are as follows:
 
 | User  Role| Description |
 | ------------- | ------------- |
-| **User** | Any logged-in user who is not an Admin or root user. A user can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they create (edit and delete apps).</li><li>View app results for the apps they create or for which they have been granted shared access.</li><li>Share app job results for the apps they create</li><li>View a list of job results for apps to which they have been added as a Private user.</li>
-| **Admin**  | An Admin can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they, non-Admins, or other Admin users create (edit and delete apps).</li><li>View actual app results for the apps they create or for which they have been granted shared access.</li><li>Share app job results for the apps they create</li><li>View a list of job results for apps to which they have been added as a Private user.</li><li>Access the Admin Dashboard for information about total apps, total authors, executed jobs, metrics, and more.</li><li>Manage users (promote users to and demote users from Admin status.</li><li>View System and Audit Logs.</li>
+| **User** | Any logged-in user who is not an Admin or root user. A user can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they create (edit and delete apps).</li><li>View job results for the apps they create or for private apps to which they have been granted shared access.</li><li>Share job results for the apps they create</li><li>View a list of job results for apps they did not create but to which they have been added as a Private user.</li>
+| **Admin**  | An Admin can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they, non-Admins, or other Admin users create (edit and delete apps).</li><li>View job results for the apps they create, apps with public job results, or apps with private job results for which they have been granted shared access.</li><li>Share app job results for the apps they create</li><li>View a list of job results for private apps to which they have been designated as a Private user.</li><li>Access the Admin Dashboard for information about total apps, total authors, executed jobs, metrics, and more.</li><li>Manage users (promote users to and demote users from Admin status.</li><li>View System and Audit Logs.</li>
