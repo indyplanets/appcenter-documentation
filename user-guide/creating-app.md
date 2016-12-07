@@ -1,26 +1,25 @@
 You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](managing-apps.md)** view. 
 
 1. From the **Dashboard** or **Manage Apps** view, click the orange floating action button. 
-2. In the **App Info** card, complete the entries. Use the default **Memory**, **Processors**, and **CPUs** values, unless you encounter errors when running the app that indicate resources are limited.
-4. Click **Save** to proceed to the **App Code** card.
-
- **Note**:  Once you save the **App Info** card, you cannot edit the **App Type**.
-
-3. In the **App Code** card, do one of the following:
+2. In the **App Info** card, complete the entries with the following considerations:
+  * Once you save the **App Info** card, you cannot edit the **App Type**.
+  * Use the default **Memory**, **Processors**, and **CPUs** values, unless you encounter errors when running the app that indicate resources are limited.
+3. Click **Save** to proceed to the **App Code** card.
+4. In the **App Code** card, do one of the following:
   * Click **Choose a File**, select the code file, and when the name of the file appears on the button, click it.
   * Drag the code file on top of the **Choose a File button**, and when the name of the file appears on the button, click the button.
-4. [Optional] In the **App Configurations** card, do the following to pass paraemeters to the SQL app:
-  5. Click **Add Field**, click **(text field)**, and complete the entries. 
-  6. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement for this field.
-  7. Click **Save & Continue**.
+5. [Optional] In the **App Configurations** card, do the following to pass paraemeters to the SQL app:
+  6. Click **Add Field**, click **(text field)**, and complete the entries. 
+  7. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement for this field.
+  8. Click **Save & Continue**.
  
  **Note**:  You can also add these parameters when you run the app.
 
  **Note**:  To skip this section, click either **AppResults Configurations** or **App Permissions**.
  
-8. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
-   9. Click **Add Field**, click **(name)**, and complete the entries. 
-  10. Click **Save & Continue**. 
+9. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
+   10. Click **Add Field**, click **(name)**, and complete the entries. 
+   11. Click **Save & Continue**. 
  
   **Note**:  For a list of visualization formats and types, see **[App Results Configurations Formats and Types](app-results-configuration-formats.md)**.
 
