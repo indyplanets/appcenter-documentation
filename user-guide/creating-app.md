@@ -32,6 +32,6 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
 15. Click **Save & Continue**.
 16. Do one of the following:
   * To run the app, click **Run App**.
-  * To view recent activity and logs for the app, which are available once the app has been run, click **View **.
+  * To view recent activity and logs for the app, which are available once the app has been run, click **View APP**.
 
 For more information about user roles, app permissions, and job results permimssions, see **[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)**.
