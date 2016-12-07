@@ -9,7 +9,6 @@ The combination of user role, app permission settings, and job results privacy s
 | **Admins and Root Users**  | <ul><li>Promote users to and demote users from Admin status.</li></ul>|
 | **Root Users Only**  | <ul><li>Create and edit Teradata, Aster, or Presto systems.</li><li>View, create, edit, and delete LDAP domains.</li></ul>|
 
-
 ## App Permissions
 
 App permission settings determine who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view. App permission settings are separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
@@ -20,6 +19,7 @@ App permission settings determine who has access to the apps. These permissions 
 | **Privacy**  | When you create an app, AppCenter automatically makes it private, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public, which makes it visible to all users. |
 | **Private users** | Can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the list of job runs.</li><li>View private job results if granted shared access.</li></ul>|
 
+
 ## Share Job Results Permissions
 
 The **Share job results** settings determine who can see the app's actual job results, in addition to the list of job runs. Job results are available under **Recent Activity**. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
@@ -28,5 +28,3 @@ The **Share job results** settings determine who can see the app's actual job re
 | ------------- | ------------- |
 | **Privacy off**  | Provides the following access to job results: <ul><li>For public apps, job results are available to all users.</li><li> For private apps, job results are available to the Manager who created the app and the app's Private users.</li></ul> |
 | **Privacy On**  | Provides restricted access to all or individual job results. For public and private apps, job results are available to the Manager who created the app and to only those users who have been granted shared access to an individual result or all results. |
-
-
