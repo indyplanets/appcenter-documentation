@@ -1,42 +1,18 @@
-# TOPIC IN PROGRESS...
-
 The combination of user role, app permission settings, and job results privacy settings determines the apps and features available to the user.
 
 ## User Roles
 
-The three AppCenter user roles are as follows:
+| Role| Privileges |
+| ------------- | ------------- |
+| **Users and Admins**  | <ul><li>Create (or author) public or private apps.</li><li>Grant specific users access to private apps.</li><li>Grant specific users access to private apps.</li><li>Create, edit, and delete apps they create).</li><li>Add other Managers to apps they create or to which they have been added as an additional Manager</li><li>View job results for the apps they create.</li><li>Share job results for the apps they create with all, selected, or no other users.</li></ul> |
+| **Admins Only**  | <ul><li>Access the Admin Dashboard to view app, author, job, and other statistics.</li><li>Edit and delete other user's apps. <li>View System Logs and Audit Logs.</li></ul>|
+| **Admins and Root Users**  | <ul><li>Promote users to and demote users from Admin status.</li></ul>|
+| **Root Users Only**  | <ul><li>Create and edit Teradata, Aster, or Presto systems.</li><li>View, create, edit, and delete LDAP domains.</li></ul>|
 
-* User
-* Admin
-* Root
-
-Users and Admins can both do the following:
-
-* Create (or author) public or private apps.
-* Grant specific users access to private apps.
-* Manage apps they create (edit and delete them).
-* View job results for the apps they create.
-* Share job results for the apps they create with all, selected, or no other users.
-
-Admins only can do the following:
-
-* Manage apps other users and Admins create (edit and delete them).
-* Access the Admin Dashboard to view app, author, job, and other statistics.
-
-Admins and Root users only can do the following:
-
-* Manage users (promote users to and demote users from Admin status).
-
-Root users only can do the following:
-
-* Manage systems (create and edit Teradata, Aster, or Presto systems).
-* View, create, edit, and delete LDAP domains.
 
 ## App Permissions
 
-App permission settings determine who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view.
-
-App permission settings are separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
+App permission settings determine who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view. App permission settings are separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
 
 | App Permission| Description |
 | ------------- | ------------- |
@@ -46,9 +22,7 @@ App permission settings are separate from job results privacy. For more informat
 
 ## Share Job Results Permissions
 
-**Share job results** determines who can see the app's actual job results. By default, privacy is off.
-
-Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
+**Share job results** determines who can see the app's actual job results. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
 
 | Job Results Permission| Description |
 | ------------- | ------------- |
