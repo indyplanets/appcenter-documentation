@@ -22,7 +22,7 @@ App permission settings determine who has access to the apps. These permissions 
 
 ## Share Job Results Permissions
 
-**Share job results** determines who can see the app's actual job results. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
+**Share job results** determines who can see the app's actual job results. Job results are available under **Recent Activity**. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
 
 | Job Results Permission| Description |
 | ------------- | ------------- |
