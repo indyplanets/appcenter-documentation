@@ -4,7 +4,7 @@ The combination of user role, app permission settings, and job results privacy s
 
 | Role| Privileges |
 | ------------- | ------------- |
-| **Users and Admins**  | <ul><li>Create (or author) public or private apps.</li><li>Grant specific users access to private apps.</li><li>Create, edit, and delete apps they create).</li><li>Add other Managers to apps they create or to which they have been added as an additional Manager</li><li>View job results for the apps they create.</li><li>Share job results for the apps they create with all, selected, or no other users.</li></ul> |
+| **Users and Admins**  | <ul><li>Create public or private apps.</li><li>Grant specific users access to private apps.</li><li>Create, edit, and delete apps they create).</li><li>Add other Managers to apps they create or to which they have been added as an additional Manager</li><li>View job results for the apps they create.</li><li>Share job results for the apps they create with all, selected, or no other users.</li></ul> |
 | **Admins Only**  | <ul><li>Access the Admin Dashboard to view app, author, job, and other statistics.</li><li>Edit and delete other user's apps. <li>View System Logs and Audit Logs.</li></ul>|
 | **Admins and Root Users**  | <ul><li>Promote users to and demote users from Admin status.</li></ul>|
 | **Root Users Only**  | <ul><li>Create and edit Teradata, Aster, or Presto systems.</li><li>View, create, edit, and delete LDAP domains.</li></ul>|
