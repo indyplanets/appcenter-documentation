@@ -12,8 +12,10 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
   6. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement for this field.
   7. Click **Save & Continue**.
  
+ **Note**:  You can also add these parameters when you run the app.
+
  **Note**:  To skip this section, click either **AppResults Configurations** or **App Permissions**.
- **Note**:  You can also add these parameters when you run the app. 
+ 
 8. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
    9. Click **Add Field**, click **(name)**, and complete the entries. 
   10. Click **Save & Continue**. 
