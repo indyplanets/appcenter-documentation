@@ -1,4 +1,4 @@
-The combination of user role, app permission settings, and job results privacy settings determines the apps and features available to the user.
+The combination of user role, app permission settings, and job results privacy settings determines the apps and features available to a user.
 
 ## User Roles
 
