@@ -8,7 +8,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
 4. In the **App Code** card, do one of the following:
   * Click **Choose a File**, select the code file, and when the name of the file appears on the button, click it.
   * Drag the code file on top of the **Choose a File button**, and when the name of the file appears on the button, click the button.
-5. [Optional] In the **App Configurations** card, do the following to pass paraemeters to the SQL app:
+5. [Optional] In the **App Configurations** card, do the following to pass paraemeters to the app:
   6. Click **Add Field**, click **(text field)**, and complete the entries. 
   7. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement for this field.
   8. Click **Save & Continue**.
