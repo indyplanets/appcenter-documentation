@@ -2,7 +2,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
 
 1. From the **Dashboard** or **Manage Apps** view, click the orange floating action button. 
 2. In the **App Info** card, complete the entries with the following considerations:
-  * Once you save the **App Info** card, you cannot edit the **App Type**.
+  * Once you save the **App Info** card, you cannot change the **App Type**.
   * Use the default **Memory**, **Processors**, and **CPUs** values, unless you encounter errors when running the app that indicate resources are limited.
 3. Click **Save** to proceed to the **App Code** card.
 4. In the **App Code** card, do one of the following:
