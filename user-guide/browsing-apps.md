@@ -1,6 +1,5 @@
 When users and Admins log in, AppCenter takes you to the Dashboard, which displays the following: 
 
-For users and Admins, the Dashboard displays the following:
 * Existing apps in grid format
 * List of apps you can manage
 * List of recent job results
