@@ -2,13 +2,33 @@ The combination of user role, app permission settings, and job results privacy s
 
 ## User Roles
 
-The three user roles are as follows:
+The three AppCenter user roles are as follows:
 
-| User  Role| Description |
-| ------------- | ------------- |
-| **User** | Any logged-in user who is not an Admin or root user. A user can perform the following tasks:<ul><li>Create apps.</li><li>Manage apps they create (edit and delete apps).</li><li>View job results for the apps they create.</li><li>View job results for public apps with unrestricted job results.</li><li>View job results for private apps for which they have been designated as a Private user and granted shared access to designate them as a Private user and that grant them shared access to results.</li><li>Share job results for the apps they create.</li><li>View a list of job runs for apps they did not create but to which they have been added as a Private user.</li></ul>
-| **Admin**  | An Admin can perform the following tasks:<ul><li>Create apps</li><li>Manage apps they, non-Admins, or other Admins create (edit and delete apps).</li><li>View job results for the apps they create.</li><li>View job results for apps with public job result.</li><li>View private job results for which they have been granted shared access.</li><li>Share app job results for the apps they create.</li><li>Access the Admin Dashboard for information about total apps, total authors, executed jobs, metrics, and more.</li><li>Manage users (promote users to and demote users from Admin status.</li><li>View System and Audit Logs.</li></ul>
-| **Root**  | A root user can perform the following tasks:<ul><li>Manage systems (create and edit Teradata, Aster, or Presto systems). </li><li>Manage users (promote users to and demote users from Admin status).</li><li>View, create, edit, and delete LDAP domains.</li></ul>
+* User
+* Admin
+* Root
+
+Users and Admins can both do the following:
+
+* Create (or author) public or private apps.
+* Grant specific users access to private apps.
+* Manage apps they create (edit and delete them).
+* View job results for the apps they create.
+* Share job results for the apps they create with all, selected, or no other users.
+
+Admins only can do the following:
+
+* Manage apps other users and Admins create (edit and delete them).
+* Access the Admin Dashboard to view app, author, job, and other statistics.
+
+Admins and Root users only can do the following:
+
+* Manage users (promote users to and demote users from Admin status).
+
+Root users only can do the following:
+
+* Manage systems (create and edit Teradata, Aster, or Presto systems).
+* View, create, edit, and delete LDAP domains.
 
 ## App Permissions
 
@@ -18,9 +38,9 @@ App permission settings are separate from job results privacy. For more informat
 
 | App Permission| Description |
 | ------------- | ------------- |
-| **Managers**  | App Managers can can do the following: <ul><li>View the app</li><li>Run the app.</li><li>View app results</li><li>Manage the app (edit and delete the app)</li><li>Add or remove Managers</li></ul>|
+| **Managers**  | When you create an app, AppCenter automatically makes you the first Manager. You can add and remove additional Managers, and edit or delete an app for which you are a manager.|
 | **Privacy**  | When you create an app, AppCenter automatically makes it private, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public, which makes it visible to all users. |
-| **Private users** | Private users for an app can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view</li><li>Run the app.</li><li>View the list of app results.</li></ul>|
+| **Private users** | Private users for an app can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the list of job runs.</li><li>View private job results if granted shared access.</li></ul>|
 
 ## Share Job Results Permissions
 
