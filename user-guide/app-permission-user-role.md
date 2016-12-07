@@ -21,7 +21,7 @@ App permission settings determine who has access to the apps. These permissions 
 | **Private users** | Can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the list of job runs.</li><li>View private job results if granted shared access.</li></ul>|
 
 
-## Share Job Results Permissions
+##Job Results Permissions
 
 The **Share job results** settings determine who can see the app's actual job results, in addition to the list of job runs. Job results are available under **Recent Activity**. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
 
