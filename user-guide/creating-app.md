@@ -25,7 +25,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
 
   **Note**:  To skip this section, click **App Permissions**.
 
-11. [Optional]In the **App Permissions** card, do the folowing to change the defaults:
+11. [Optional] In the **App Permissions** card, do the folowing to change the defaults:
    12. To add additional Managers, begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a collaborator for the app.
    13. [Optional] To make this app public instead of private, click the slider next to **Privacy On**. Click it again to make this app private again.
    14. [Optional] To add additional users to a private app, click the line below **Private users**, type the name of the user, and then press **Enter**.
