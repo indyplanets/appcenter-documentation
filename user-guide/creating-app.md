@@ -17,10 +17,11 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
 
  **Note**:  You can also add these parameters when you run the app. 
 8. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
-  9.click **Add Field**, click **(name)**, and complete the entries. 
-
-   **Note**:  For a list of visualization formats and types, see **[App Results Configurations Formats and Types](app-results-configuration-formats.md)**
+   9. Click **Add Field**, click **(name)**, and complete the entries. 
   10. Click **Save & Continue**. 
+ 
+  **Note**:  For a list of visualization formats and types, see **[App Results Configurations Formats and Types](app-results-configuration-formats.md)**
+
 11. [Optional]In the **App Permissions** card, do the folowing to change the defaults:
    12. To add additional Managers, begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a collaborator for the app.
    13. [Optional] To make this app public instead of private, click the slider next to **Privacy On**. Click it again to make this app private again.
