@@ -1,10 +1,11 @@
-The combination of user role, app permission settings, and job results privacy settings determines the apps and features available to a user.
+The combination of user role, app permission settings, and job results privacy settings determines the apps and features available to a user. For example:
+<ul><li>An app may be public, but have private job results. In this case, you can access the app, but see only the list of job runs. If the user who created the app addes you as a Private user to the job results, you will be able to see the list of job runs and the actual results of those job runs.</li><li>An app may be private, but have no privacy set for the job results. In this case, a designated app Manager would need to add you as Private user to the app so you could see the public job results.</li></ul>
 
 ## User Roles
 
 | Role| Privileges |
 | ------------- | ------------- |
-| **Users and Admins**  | <ul><li>Create (or author) public or private apps.</li><li>Grant specific users access to the private apps they created.</li><li>Edit and delete apps they created.</li><li>Add other Managers to apps they created, or to apps for which they have been added as a Manager</li><li>View job results for the apps they created.</li><li>Share job results for the apps they created with all, selected, or no other users.</li><li>View shared job results for apps other users created.</li><li>View the list of job runs for apps other users created with private job results.</li></ul> |
+| **Users and Admins**  | <ul><li>Create (or author) public or private apps.</li><li>Grant specific users access to the private apps they created.</li><li>Edit and delete apps they created.</li><li>Add other Managers to apps they created, or to apps for which they have been added as a Manager</li><li>View job results for the apps they created.</li><li>Share job results for the apps they created with all, selected, or no other users.</li><li>View shared job results for public apps other users created.</li><li>View shared job results for private apps other users created, if added as a Private User.</li><li>View the list of job runs for public apps with private job results that other users created, if added as a Private User for job results.</li></ul> |
 | **Admins Only**  | <ul><li>Access the Admin Dashboard to view app, author, job, and other statistics.</li><li>Edit and delete apps other users created. <li>View System Logs and Audit Logs.</li></ul>|
 | **Admins and Root Users**  | <ul><li>Promote users to and demote users from Admin status.</li></ul>|
 | **Root Users Only**  | <ul><li>Create and edit Teradata, Aster, or Presto systems.</li><li>View, create, edit, and delete LDAP domains.</li></ul>|
