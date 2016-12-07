@@ -16,13 +16,13 @@ App permission settings determine who has access to the apps. These permissions 
 
 | App Permission| Description |
 | ------------- | ------------- |
-| **Managers**  | When you create an app, AppCenter automatically makes you the first Manager. As a Manager, you can do the following: <ul><li>Add and remove additional Managers</li><li>Edit or delete the app.</li></ul>|
+| **Managers**  | When you create an app, AppCenter automatically makes you the first Manager. As a Manager, you can do the following: <ul><li>Add and remove additional Managers.</li><li>Edit or delete the app.</li></ul>|
 | **Privacy**  | When you create an app, AppCenter automatically makes it private, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public, which makes it visible to all users. |
-| **Private users** | Private users for an app can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the list of job runs.</li><li>View private job results if granted shared access.</li></ul>|
+| **Private users** | Can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the list of job runs.</li><li>View private job results if granted shared access.</li></ul>|
 
 ## Share Job Results Permissions
 
-**Share job results** determines who can see the app's actual job results. Job results are available under **Recent Activity**. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
+The **Share job results** settings determine who can see the app's actual job results, in addition to the list of job runs. Job results are available under **Recent Activity**. By default, privacy is off. Job results privacy is separate from app privacy. For more information about app privacy settings, see [App Permissions](#app-permissions).
 
 | Job Results Permission| Description |
 | ------------- | ------------- |
