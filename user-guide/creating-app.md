@@ -20,7 +20,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
    9. Click **Add Field**, click **(name)**, and complete the entries. 
   10. Click **Save & Continue**. 
  
-  **Note**:  For a list of visualization formats and types, see **[Manage Apps](managing-apps.md)**.
+  **Note**:  For a list of visualization formats and types, see **[App Results Configurations Formats and Types](app-results-configuration-formats.md)**.
 
 11. [Optional]In the **App Permissions** card, do the folowing to change the defaults:
    12. To add additional Managers, begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a collaborator for the app.
