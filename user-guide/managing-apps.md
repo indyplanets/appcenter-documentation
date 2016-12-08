@@ -10,5 +10,5 @@ AppCenter provides options for managing apps from both the Dashboard and a speci
   
 ## Editing and Deleting Apps
 
-* For information about editing apps, see [Editing Apps](editing-app.md)
-* For information about deleting apps, see [Deleting Apps](deleting-app.md)
+* For information about editing apps, see [Editing Apps](editing-app.md).
+* For information about deleting apps, see [Deleting Apps](deleting-app.md).
