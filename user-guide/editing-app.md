@@ -1,6 +1,4 @@
 
-Only the user who created the app, Admins, or a user who is an added Manager for the app can edit the app. 
-
 1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
   
   A More Options button appears next to the apps that you can edit.
