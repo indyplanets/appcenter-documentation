@@ -1,12 +1,14 @@
-Managing apps includes viewing the list of apps to which you have access, editing apps, and deleting apps. 
+Only the user who created the app, Admins, or a user who is an added Manager for the app can manage an app. Managing apps includes viewing, editing, and deleting apps. 
 
-## Accessing the Manage Apps View
+For more information about user roles, app permissions, and job results permimssions, see **[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)**.
 
-1. From any view, click the menu button in the upper-left corner, and then click **Manage Apps**. AppCenter displays the apps in list view by default.
-2. [Optional] To display apps in grid view, click the grid button in the upper-right corner.
+## Accessing **Manage Apps**
 
-## Editing an App
+AppCenter provides options for managing apps from both the Dashboard and a specific **Manage Apps** view.
 
-Continue Tuesday 11/29.
+1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
+  
+## Editing and Deleting Apps
 
-For more information about user types and roles, see **[User Types and Roles](user-types.md)**.
+* For information about editing apps, see [Editing Apps](editing-apps.md)
+* For information about deleting apps, see [Deleting Apps](deleting-apps.md)
