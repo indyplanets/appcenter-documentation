@@ -1,4 +1,4 @@
-Only the user who created the app, Admins, or a user who is an added Manager for the app can manage an app. Managing apps includes viewing, editing, and deleting apps. 
+Only the user who created the app, Admins, or a user who is an added Manager for the app can manage the app. Managing apps includes viewing, editing, and deleting apps. 
 
 For more information about user roles, app permissions, and job results permimssions, see **[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)**.
 
