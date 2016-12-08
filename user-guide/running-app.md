@@ -1,5 +1,8 @@
+**DRAFT IN PROGRESS...**
+
+
 1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
-  
+
   **Tip**: In the **Manage Apps** view, you can view the apps in list or grid view. List view is the default. To switch to grid view, click the grid buton in the upper-right corner. To switch back to list view, click the list button.
   
 3. Click the More Options button, and then click **Edit**.
