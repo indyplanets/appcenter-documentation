@@ -1,5 +1,5 @@
 
-Only the user who created the app, Admins, or a user who is a Manager for the app can delete the app. 
+Only the user who created the app, Admins, or a user who is an added Manager for the app can delete the app. 
 
 1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
   
