@@ -11,4 +11,4 @@ AppCenter supports the following format and types for job results visualizations
 | Forest Drive       | <ul><li>Dtree</li></ul> |
 
  ## Related Topics
- * [Creating Apps](creating-apps.md)
+ * [Creating Apps](creating-app.md)
