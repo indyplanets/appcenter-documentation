@@ -2,4 +2,4 @@
 3. Click the the app you want to view.
 
 ## Related Topics
-*[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
+* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
