@@ -4,7 +4,7 @@ You can run an app manually any time or select a schedule to run the app automat
 
 1. Do one of the following:
   *  At the bottom of the **Create/Edit App** view, click **Run App**.
-  *  From the Dashboard or **Manage Apps**, View the app and click **Execute App**. 
+  *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
 2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, you can skip the **App Parameters** card or click **Continue**.
@@ -18,7 +18,7 @@ You can run an app manually any time or select a schedule to run the app automat
 
 1. Do one of the following::
   *  At the bottom of the **Create/Edit App** vieW, click **Run App**.
-  *  From the Dashboard or **Manage Apps**, View the app and click **Execute App**. 
+  *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
 2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, you can skip the **App Parameters** card or click **Continue**.
