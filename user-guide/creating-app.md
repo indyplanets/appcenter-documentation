@@ -37,8 +37,8 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
    17. To run the app now, do the following:
       18. Click **Run App**.
       19. Select a system and enter the credentials.
-      20. Clear (if not required) or click **Continue** to keep parameers you entered.
-      21. [Optional] Select **Schedule** options.
+      20. If you entered parameters for this app, click **Continue** to use them for this job run, or click **Clear** if they are not required parameters and you don't want to use them for this run.
+      21. [Optional] Select **Schedule** options. and select **Daily** or **Advanced** run times.
       22. Click **Run Now**.
   
    17.To review the app, click **View App**.
