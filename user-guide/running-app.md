@@ -7,7 +7,7 @@ You can run an app manually any time, or select a schedule to run the app automa
   *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
 2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
-   * If you did not enter any parameters for this app, skip the **App Parameters** card or click **Continue**.
+   * If you did not enter any parameters for this app, skip the **App Parameters** card.
    * If you entered required parameters for this app or optional parameters that you want to use for this job run, click **Continue**.
    * If you entered optional parameters for this app that you want to ignore for this job run, click **Clear**.
 5. Click **Run Now**.
@@ -21,7 +21,7 @@ You can run an app manually any time, or select a schedule to run the app automa
   *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
 2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
-   * If you did not enter any parameters for this app, skip the **App Parameters** card or click **Continue**.
+   * If you did not enter any parameters for this app, skip the **App Parameters** card.
    * If you entered required parameters for this app, or optional parameters that you want to use for this job run, click **Continue**.
    * If you entered optional parameters for this app that you want to ignore for this job run, click **Clear**
 4.Do the following:
