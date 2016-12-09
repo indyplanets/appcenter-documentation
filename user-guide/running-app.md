@@ -31,6 +31,6 @@ You can run an app manually any time, or select a schedule to run the app automa
 
 ## Viewing and Sharing Results
 
-For more information about viewing app results, see **[Viewing Results](viewing-results.md)**
+For more information about viewing app results, see **[Viewing Results](viewing-results.md)**.
 
-For more information about sharing app results, see **[Sharing Results](sharing-results.md)**
+For more information about sharing app results, see **[Sharing Results](sharing-results.md)**.
