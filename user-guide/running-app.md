@@ -2,10 +2,10 @@ You can run an app manually any time or select a schedule to run the app automat
 
 ## Running an App Manually
 
-1. Do one of the following::
+1. Do one of the following:
   *  At the bottom of the **Create/Edit App** vieW, click **Run App**.
   *  From the Dashboard or **Manage Apps**, View the app and click **Execute App**. 
-2. Select a system and enter the credentials.
+2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, you can skip the **App Parameters** card or click **Continue**.
    * If you entered required parameters for this app, or optional parameters that you want to use for this job run, click **Continue**.
@@ -19,7 +19,7 @@ You can run an app manually any time or select a schedule to run the app automat
 1. Do one of the following::
   *  At the bottom of the **Create/Edit App** vieW, click **Run App**.
   *  From the Dashboard or **Manage Apps**, View the app and click **Execute App**. 
-2. Select a system and enter the credentials.
+2. Select a system, enter the credentials, and then click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, you can skip the **App Parameters** card or click **Continue**.
    * If you entered required parameters for this app, or optional parameters that you want to use for this job run, click **Continue**.
