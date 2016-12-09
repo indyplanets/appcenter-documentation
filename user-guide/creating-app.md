@@ -16,16 +16,12 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](manag
   7. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement for this field.
   8. Click **Save & Continue**.
  
- **Note**:  You can also add these parameters when you run the app.
-
- **Note**:  To skip this section, click either **AppResults Configurations** or **App Permissions**.
+  **Note**:  To skip this section, click either **AppResults Configurations** or **App Permissions**.
  
 9. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
    10. Click **Add Field**, click **(name)**, and complete the entries. 
    11. Click **Save & Continue**. 
  
-  **Note**:  For a list of visualization formats and types, see [App Results Configurations Formats and Types](app-results-configuration-formats.md).
-
   **Note**:  To skip this section, click **App Permissions**.
 
 11. [Optional] In the **App Permissions** card, do the folowing to change the defaults:
@@ -44,5 +40,6 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](manag
    17. To review the app, click **View App**.
 
 ## Related Topics
+* [App Results Configurations Formats and Types](app-results-configuration-formats.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
