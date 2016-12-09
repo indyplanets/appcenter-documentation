@@ -1,15 +1,15 @@
-You can run apps from the Dashboard or **[Manage Apps](managing-apps.md)** view. 
+You can run an app any manually any time or automatically based on the schedule options you specify. 
 
-1. Do one of the following:
-   17. To run the app now, do the following:
-      18. Click **Run App**.
-      19. Select a system and enter the credentials.
-      20. If you entered parameters for this app, click **Continue** to use them for this job run, or click **Clear** if they are not required parameters and you don't want to use them for this run.
-      21. [Optional] Select **Schedule** options. and select **Daily** or **Advanced** run times.
-      22. Click **Run Now**.
-      
-   17. To review the app, click **View App**.
+**Note:**  If you select a schedule to run an app automatically, you cannot change the schedule after you run the app.
 
-For more information about running the app at a later time, see **[Running an App](running-app.md)**.
-
-For more information about user roles, app permissions, and job results permimssions, see **[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)**.
+1. Do one of the following::
+  *  At the bottom of the **Create/Edit App** vieW, click **Run App**.
+  *  View the app and click **Execute App**. 
+2. Select a system and enter the credentials.
+3. If you entered parameters for this app, do one of the following:
+   * If they are required parameters or optional parameters you want to use for this job run, click **Continue**.
+   * If they are optional parameters that you want to ignore for this job run, click **Clear**
+4. [Optional] To run this app automatically, do one of the following:
+   *  To run the app daily (the default), specify the time in Greenwish Mean Time (GMT).
+   *  To run the app a particular time, day, month, and day of the week, click **Advanced**, and enter the values.
+5. Click **Run Now**.
