@@ -1,4 +1,4 @@
-You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](managing-apps.md)** view. 
+You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](managing-apps.md) view. 
 
 1. From the **Dashboard** or **Manage Apps** view, click the orange floating action button. 
 
