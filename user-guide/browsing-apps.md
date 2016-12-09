@@ -10,7 +10,7 @@ When users and Admins log in, AppCenter takes you to the Dashboard, which displa
 
 You can return to the Dashboard from any view by doing the following:
 
-1. In the upper-left corner, click the menu button and then click **Overview**.
+1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview**.
 
 **Note**: When Root users log in, AppCenter takes you to the LDAP settings. For more information, see the [Admin Guide](../admin-guide/index.md).
 
