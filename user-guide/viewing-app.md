@@ -1,3 +1,5 @@
-# Viewing an App
+1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
+3. Click the the app you want to view.
 
-You can view the apps you create, apps for which you have been added as a Manager, or public apps.
+## Related Topics
+*[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
