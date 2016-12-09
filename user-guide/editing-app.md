@@ -1,8 +1,8 @@
 You can edit apps from the following locations:
 
  - Dashboard
- - _Manage Apps_ view
- - _Recent Activity_ view 
+ - **Manage Apps** view
+ - **Recent Activity** view 
 
 1. Do one of the following:
  * Click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**. 
