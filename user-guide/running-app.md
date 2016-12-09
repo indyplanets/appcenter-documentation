@@ -1,4 +1,4 @@
-You can run an app manually any time or select a schedule to run the app automatically. 
+You can run an app manually any time, or select a schedule to run the app automatically. 
 
 ## Running an App Manually
 
