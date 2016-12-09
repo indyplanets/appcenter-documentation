@@ -28,3 +28,9 @@ You can run an app manually any time, or select a schedule to run the app automa
    1.  select the **Daily** or **Advanced** options, and click **Continue**.
    2.  Review the Schedule options, and click **Submit**.
 5. Click **Run Now**.
+
+## Viewing and Sharing Results
+
+For more information about viewing app results, see **[Viewing Results](viewing-results.md)**
+
+For more information about sharing app results, see **[Sharing Results](sharing-results.md)**
