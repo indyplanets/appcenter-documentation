@@ -24,7 +24,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
    10. Click **Add Field**, click **(name)**, and complete the entries. 
    11. Click **Save & Continue**. 
  
-  **Note**:  For a list of visualization formats and types, see **[App Results Configurations Formats and Types](app-results-configuration-formats.md)**.
+  **Note**:  For a list of visualization formats and types, see [App Results Configurations Formats and Types](app-results-configuration-formats.md).
 
   **Note**:  To skip this section, click **App Permissions**.
 
@@ -43,6 +43,6 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
       
    17. To review the app, click **View App**.
 
-For more information about running the app at a later time, see **[Running an App](running-app.md)**.
-
-For more information about user roles, app permissions, and job results permimssions, see **[User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)**.
+## Related Topics
+* [Running an App](running-app.md)
+* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
