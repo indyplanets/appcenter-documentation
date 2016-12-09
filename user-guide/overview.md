@@ -1,4 +1,9 @@
-When you log in, AppCenter displays the following:
+Depnding on user role and app status, AppCenter displays the following When you log in:
+
+| User Role          | App Status          |  Display    |
+| ------             | -----------         |  ---------  |
+| User or Admin      | No apps created yet |  Welcome quickstart card to guide you through app creation       |
+| 
 
 When users and Admins log in, AppCenter takes you to the Dashboard, which displays the following: 
 
