@@ -5,6 +5,9 @@ You can run an app manually any time, or select a schedule to run the app automa
 1. Do one of the following:
   *  At the bottom of the **Create/Edit App** view, click **Run App**.
   *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
+  
+  **Tip:** If you have not created any apps of your own yet but you are a Private user for another user's app, you can run that app from the Dashboard **Welcome..** card. Click **3. Run an App Job** and click the app.
+
 2. Select a system, enter the credentials and click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, skip the **App Parameters** card.
@@ -28,8 +31,8 @@ You can run an app manually any time, or select a schedule to run the app automa
 5. Review the Schedule options and click **Submit**.
 6. Click **Run Now**.
 
-## Viewing and Sharing Results
+## Related Topics
 
-For more information about viewing app results, see **[Viewing Results](viewing-results.md)**.
-
-For more information about sharing app results, see **[Sharing Results](sharing-results.md)**.
+* [Viewing Results](viewing-results.md)
+* [Sharing Results](sharing-results.md)
+* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
