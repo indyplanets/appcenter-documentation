@@ -1,4 +1,4 @@
-1. In the upper-left corner, click the menu button and then click **Overview** or **Manage Apps**. 
+1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**. 
 3. Click the the app you want to view.
 
 ## Related Topics
