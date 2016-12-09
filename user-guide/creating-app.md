@@ -40,8 +40,8 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
       20. If you entered parameters for this app, click **Continue** to use them for this job run, or click **Clear** if they are not required parameters and you don't want to use them for this run.
       21. [Optional] Select **Schedule** options. and select **Daily** or **Advanced** run times.
       22. Click **Run Now**.
-  
-   17.To review the app, click **View App**.
+      
+   23.To review the app, click **View App**.
 
 For more information about running the app at a later time, see **[Running an App](running-app.md)**.
 
