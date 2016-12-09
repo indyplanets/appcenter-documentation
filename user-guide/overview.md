@@ -1,6 +1,6 @@
-Depnding on user role and app status, AppCenter displays the following when you log in:
+Depnding on user role and app status, AppCenter displays one of the following when you log in:
 
-| User Role          | App Status          |  Display    |
+| User Role          | App Status          |  Displays    |
 | ------             | -----------         |  ---------  |
 | User or Admin      | No apps created yet |  Welcome quickstart card to guide you through app creation       |
 | User or Admin      | Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
