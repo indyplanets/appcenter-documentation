@@ -8,7 +8,7 @@ You can edit apps from the following locations:
  * Click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**. 
  * View the app and then click ![edit button](images/edit-app.png).
 
-  AppCenter displays (![more options button](images/more-options.png)) next to the apps you can edit.
+  AppCenter displays ![more options button](images/more-options.png) next to the apps you can edit.
 
 3. Next to the app you want to edit, click ![more options button](images/more-options.png) and then click ![edit app button](images/edit-app.png).
 4. Make the desired changes.
