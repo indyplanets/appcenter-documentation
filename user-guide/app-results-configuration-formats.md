@@ -1,5 +1,5 @@
 
-AppCenter supports the following format and types for job results visualizations: 
+AppCenter supports the following formats and types for job results visualizations: 
 
 | Format             | Available Types |
 | ------             | ----------- |
@@ -10,5 +10,7 @@ AppCenter supports the following format and types for job results visualizations
 | Find Name Dentity  | <ul><li>Wordcloud</li><li>Wordbubbles wordcloud</li></ul> |
 | Forest Drive       | <ul><li>Dtree</li></ul> |
 
- ## Related Topics
- * [Creating Apps](creating-app.md)
+## Related Topics
+* [Creating Apps](creating-app.md)
+* [Viewing Results](viewing-results.md)
+* [Sharing Results](sharing-results.md)
