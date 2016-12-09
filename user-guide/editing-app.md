@@ -10,7 +10,7 @@ You can edit apps from the following locations:
   AppCenter displays (![more options](images/more-options.png)) next to the apps you can edit.
 
 3. Next to the app you want to edit, click ![more options](images/more-options.png) and then click ![edit button](images/edit-app.png).
-4. Make the desired changes and save each card you change.
+4. Make the desired changes.
  
   **Note**: You canot edit **App Type**.
 
