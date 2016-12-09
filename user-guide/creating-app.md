@@ -34,7 +34,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or **[Manage Apps](man
    14. To add additional users to a private app, click the line below **Private users**, type the name of the user, and then press **Enter**.
 15. Click **Save & Continue**.
 16. Do one of the following:
-   17. To run the app now, click **Run App** and do the following:
+   17. To run the app now, do the following:
       18. Click **Run App**.
       19. Select a system and enter the credentials.
       20. Clear (if not required) or click **Continue** to keep parameers you entered.
