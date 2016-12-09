@@ -1,6 +1,6 @@
 You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](managing-apps.md) view. 
 
-1. From the **Dashboard** or **Manage Apps** view, click ![floaging action button](images/add-orange.png). 
+1. From the **Dashboard** or **Manage Apps** view, click ![floating action button](images/add-orange.png). 
 
   **Note**:  If you have not created any apps yet, AppCenter displays quickstart buttons at the top of the Dashboard for a guided approach with your first app, including sample SQL, Java, and BTEQ script files you can download.
 
@@ -39,7 +39,7 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](manag
       21. [Optional] Select **Schedule** options. and select **Daily** or **Advanced** run times.
       22. Click **Run Now**.
       
-   18. To review the app, click **View App** and then click ![edit app](images/edit-app.png).
+   18. To review the app, click **View App** and then click ![edit button](images/edit-app.png).
 
 ## Related Topics
 * [App Results Configurations Formats and Types](app-results-configuration-formats.md)
