@@ -13,7 +13,8 @@ You can run an app manually any time, or select a schedule to run the app automa
    * If you did not enter any parameters for this app, skip the **App Parameters** card.
    * If you entered required parameters for this app or optional parameters that you want to use for this job run, click **Continue**.
    * If you entered optional parameters for this app that you want to ignore for this job run, click **Clear**.
-5. Click **Run Now**.
+5. Skip the Schedule **(Optional)** card.
+6. Click **Run Now**.
 
 ## Running an App Automatically  
 
