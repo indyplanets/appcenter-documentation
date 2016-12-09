@@ -1,7 +1,7 @@
 You can edit apps from the Dashboard or [Manage Apps](managing-apps.md) view. 
 
 1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**. 
-2. [Optional} If you are in **Manage Apps** and and want to swtich to grid view, ![grid view](images/grid-view.png) in the upper-right corner. To switch back to list view, click ![list view](images/list-view.png).
+2. [Optional] If you are in **Manage Apps** and and want to swtich to grid view, ![grid view](images/grid-view.png) in the upper-right corner. To switch back to list view, click ![list view](images/list-view.png).
   
   A More Options button (![more options](images/more-options.png)) appears next to the apps that you can edit.
 
