@@ -1,6 +1,6 @@
 You can edit apps from the following locations:
 * Dashboard
-* [Manage Apps](managing-apps.md) view
+* **Manage Apps** view
 * **Recent Activity** view 
 
 1. Do one of the following:
@@ -15,6 +15,8 @@ You can edit apps from the following locations:
   **Note**: You canot edit **App Type**.
 
 ## Related Topics
+* [Dashboard](overview.md)
+* [Manage Apps](manage-apps.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
 
