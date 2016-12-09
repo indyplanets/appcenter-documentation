@@ -9,4 +9,4 @@
 4. When the confirmation message appears, click **DELETE** or **CANCEL** to keep the app.
  
 ## Related Topics
-* [User Roles, App Permissions, and Job Results Permissions]
+* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
