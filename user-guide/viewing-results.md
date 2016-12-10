@@ -1,11 +1,21 @@
-If an app runs successfully, you can view the results immediately or later. If an app run fails, there are no results to view; in that case, AppCenter displays a **run failed...** message.
+If an app runs successfully, you can view the app results and app  immediately or later. If an app run fails, there are no results to view; in that case, AppCenter displays a **run failed...** message.
 
 ## Viewing App Results Immediately
 
 1. Under **Recent Activity**, at the top of the list if there is more than one result, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links.
 2. Click any of the **View result data set...** links.
-3. For text/html visualizations, do the following:
+
+## Viewing App Results Later
+
+1. From the **Dashboard** or **Manage Apps** view, click the app for which you want to review results.
+2. 
+
+
+
+3. [Optional] For text/html visualization result, do the following:
   * To change the background from light to dark, select **Dark** from the menu next to ![light-dark visualization](images/light-dark-vis.png).
+  * To see the sequence and relationships in the visualization, hover your mouse over any part of the image.
+  * To view details about any item in the visualization, click it.
 
 ## Viewing App Results Immediately
 
