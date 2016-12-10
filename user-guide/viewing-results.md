@@ -2,7 +2,7 @@ If an app runs successfully, you can view the results immediately or later. If a
 
 ## Viewing App Results Immediately
 
-1. Under **Recent Activity**, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png)
+1. Under **Recent Activity**, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png).
   *  At the bottom of the **Create/Edit App** view, click **Run App**.
   *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
   
