@@ -5,7 +5,7 @@ If an app runs successfully, you can view the results immediately or later. If a
 1. Under **Recent Activity**, at the top of the list if there is more than one result, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links.
 2. Click any of the **View result data set...** links.
 3. For text/html visualizations, do the following:
-  * To change the background from light to dark, click ![light-dark visualization](images/light-dark-vis.png)
+  * To change the background from light to dark, select **Dark** from the menu next to ![light-dark visualization](images/light-dark-vis.png).
 
 ## Viewing App Results Immediately
 
