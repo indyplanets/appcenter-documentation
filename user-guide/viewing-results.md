@@ -2,13 +2,17 @@ If an app runs successfully, you can view the results immediately or later. If a
 
 ## Viewing App Results Immediately
 
-1. Under **Recent Activity**, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png).
-  *  At the bottom of the **Create/Edit App** view, click **Run App**.
-  *  From the Dashboard or **Manage Apps**, view the app and click **Execute App**. 
-  
-  **Tip:** If you have not created any apps of your own yet but you are a Private user for another user's app, you can run that app from the Dashboard's **Welcome...** card. Click **Run an App Job** and then click the app.
+1. Under **Recent Activity**, at the top of the list if there is more than one result, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links.
+2. Click any of the **View result data set...** links.
+3. For text/html visualizations, do the following:
+  * To change the background from light to dark, click ![light-dark visualization](images/light-dark-vis.png)
 
-2. Select a system, enter the credentials, and click **Continue**.
+## Viewing App Results Immediately
+
+1. Under **Recent Activity**, at the top of the list if there is more than one result, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png).
+
+
+  2. Select a system, enter the credentials, and click **Continue**.
 3. Do one of the following:
    * If you did not enter any parameters for this app, skip the **App Parameters** card.
    * If you entered required parameters for this app or optional parameters that you want to use for this job run, click the slider for the parameter(s), and click **Continue**.
