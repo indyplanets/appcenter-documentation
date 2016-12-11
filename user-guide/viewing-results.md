@@ -1,17 +1,17 @@
-AppCenter maintains a list of app run results and logs. User role, app permissions, and job results permissions determine who can see the list of results and the result details. You can view app results immediately after the app runs or later.
+AppCenter maintains a list of app runs. For each app run, there are multiple result records. User role, app permissions, and job results permissions determine who can see the list of app runs and who can access result records. 
 
-## Viewing App Results Immediately
+## Viewing App Results
 
-When an app run is complete, AppCenter displays the results.
+When an app run is completed, AppCenter automatically displays the results. You can view the app results at that time, or any time later.
 
 1. Do one of the following:
-  * If the app ran successfully, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links. Click any *View result data set...** link to view details.\
-  * If the app run failed. Click any of the **View result data set...** links.
+  * If the app just finished running and you want to view the results immediately, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png) at the top of the list. 
+  * If you want to view results from a previous app run, click the app in the Dashboard or **Manage Apps**, and then click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png) for the run want.
+2. Click any *View result data set...** link to view that particular result record. For visualization results, 
+3. [Optional] Click **Logs** to view app run logs. The ```Run #" in the **Recent Activity** list is associated with the ```job id``` in the log record.  
+  
+**Note:** If the app run failed, AppCenter provides an associated error record under **Logs**.
 
-## Viewing App Results Later
-
-1. From the **Dashboard** or **Manage Apps** view, click the app for which you want to review results.
-2. 
 
 
 
