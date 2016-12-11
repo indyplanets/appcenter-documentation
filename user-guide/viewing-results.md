@@ -1,9 +1,12 @@
-If an app runs successfully, you can view the app results and app  immediately or later. If an app run fails, there are no results to view; in that case, AppCenter displays a **run failed...** message.
+AppCenter maintains a list of app run results and logs. User role, app permissions, and job results permissions determine who can see the list of results and the result details. You can view app results immediately after the app runs or later.
 
 ## Viewing App Results Immediately
 
-1. Under **Recent Activity**, at the top of the list if there is more than one result, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links.
-2. Click any of the **View result data set...** links.
+When an app run is complete, AppCenter displays the results.
+
+1. Do one of the following:
+  * If the app ran successfully, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png). AppCenter opens the list of individual result links. Click any *View result data set...** link to view details.\
+  * If the app run failed. Click any of the **View result data set...** links.
 
 ## Viewing App Results Later
 
