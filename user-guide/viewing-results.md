@@ -4,7 +4,7 @@ For each app run, AppCenter creates results records. The user role, app permissi
 
 1. Do one of the following:
   * If the app just finished running and you want to view the results immediately, click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png) at the top of the list. 
-  * If you want to view results from a previous app run, click the app in the Dashboard or **Manage Apps**, and then click the ```Run #...``` line above the ![run successful checkmark](images/run-checkmark.png) for the run want.
+  * If you want to view results from a previous app run, click the app in the Dashboard or **Manage Apps**, and then click the `Run #...` line above the ![run successful checkmark](images/run-checkmark.png) for the run want.
 2. For successful app runs, click the *View result data set...** link to view result records. 
 
   **Note:** If the app run failed, there are no app run result details. AppCenter provides error information in the logs.
