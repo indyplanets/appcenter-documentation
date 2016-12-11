@@ -25,6 +25,6 @@ For each app run, AppCenter creates results records and logs. The user role, app
 2. [Optional] to filter the log list by successful app runs (info) or failed runs (errors), click ![filter logs button](images/filter-logs.png) and then click either **Info Logs** or **Error Logs**. To clear the filter, click ![clear log filter button](images/clear-log-filter.png), and then click ![filter logs button](images/filter-logs.png).
 3. [Optional] To refresh the log list, click ![refresh log button](images/refresh-logs.png).
 
-
+## Related Topics
 * [Sharing App Results](sharing-results.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
