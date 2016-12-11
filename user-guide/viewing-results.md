@@ -19,5 +19,5 @@ For each app run, AppCenter creates results records. The user role, app permissi
 ## Related Topics
 
 * [Running an App](running-app.md)
-* [Sharing Results](sharing-results.md)
+* [Sharing App Results](sharing-results.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
