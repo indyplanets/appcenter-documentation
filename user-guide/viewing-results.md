@@ -26,5 +26,6 @@ For each app run, AppCenter creates results records and logs. The user role, app
 3. [Optional] To refresh the log list, click ![refresh log button](images/refresh-logs.png).
 
 ## Related Topics
+* [Running an App](running-app.md)
 * [Sharing App Results](sharing-results.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
