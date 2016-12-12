@@ -1,5 +1,5 @@
 
-Only root users will see the **Settings** option in the navigation panel. From the Settings, you can view, create, edit, and delete LDAP domains.
+Only root users will see the **Settings** option in the navigation panel. From **Settings**, you can view, create, edit, and delete LDAP and Active Directories.
 
 Once you set up a domain, all users who are part of that domain can log in. Once they log in, AppCenter recognizes them as an AppCenter user. 
 
