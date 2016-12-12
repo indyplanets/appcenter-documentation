@@ -22,14 +22,14 @@ When you select Logs from the navigation panel, AppCenter displays all logs by d
 ## Filtering System Logs
 
 1. In each segment of the toolbar, click the desired filter.
-2. To clear the filters and view all logs in both segments, do the following:
+2. To clear the filters, do the following:
   *  In the left segment of the toolbar, click ![all system logs button](/user-guide/images/filter-logs.png).
-  *  In the right segment of the toolbar, click ![all services logs button](/user-guide/images/all-services.png)
+  *  In the right segment of the toolbar, click ![all services logs button](/user-guide/images/all-services.png).
 
-## Searching for Users
+## Searching for Logs
 
-1. In the ![search users box](/user-guide/images/search.png) box, start typing any part of the user's name or email address. AppCenter filters the list of users as you type.
-2. To clear this search filter and view all users, click ![clear search button](/user-guide/images/clear-search.png).
+1. In the ![search logs box](/user-guide/images/search.png) box, start typing any part of the log entry. AppCenter filters the list of users as you type.
+2. To clear this search filter and view all logs, click ![clear search button](/user-guide/images/clear-search.png).
 
 **Tip**:  To hide the search filter box, click ![hide search filter](/user-guide/images/hide-search-filter.png).
 
