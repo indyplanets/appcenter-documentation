@@ -28,4 +28,4 @@ The **Share job results** settings determine who can see the app's actual job re
 | Job Results Permission| Description |
 | ------------- | ------------- |
 | **Privacy off**  | Provides the following access to job results: <ul><li>For public apps, job results are available to all users who have the direct link.</li><li> For private apps, job results are available to the Manager who created the app and the app's Private users.</li></ul> |
-| **Privacy On**  | Provides restricted access to all or individual job results. For public and private apps, job results are available to the Manager who created the app and to only those users who have been granted shared access to an individual result or all results. |
+| **Privacy On**  | Provides restricted access to all or individual job results. For public and private apps, job results are available to the Manager who created the app and to only those users who have been granted shared access to an individual result or all results (shared users). |
