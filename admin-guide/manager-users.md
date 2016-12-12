@@ -6,31 +6,30 @@ When users who are part of an LDAP and Active Directory (configured by the root 
 
 From the **Manage Users** view, you can perform the following tasks:
 
-- Promote a Non-Admin user to an Admin
-- Demote an Admin user to a Non-Admin
+- View a list of all users
 - Filter the list of users by administrative status
 - Search for users
 - Sort the list of users in descending or ascending order
 - Hide the search bar
+- - Promote a Non-Admin user to an Admin
+- Demote an Admin user to a Non-Admin
 
 **Note**: You can combine view and search options.
 
 ## Viewing the List of All Users
 
-1. Log into AppCenter as a root user. AppCenter displays all users by default. To return to the list of all users from a filtered view, click ![all users button](/user-guide/images/all-users.png)
-
-An orange shield next to a user's name means that user is an administrator.
+1. Log into AppCenter as a root user. AppCenter displays all users.
 
 ## Filtering Users by Administrative Status
 
-1. In the **Manage Users** header, do any of the following:
- * To filter by administrative users, click **ADMINS**.
- * To filter by non-administrative users, click **NON-ADMINS**.
- * To clear the filter and view all users, click **ALL**.
+1. Under **Users**, do any of the following:
+ * To filter by Admins, click ![admin users button](/user-guide/images/admin-users.png).
+ * To filter by non-administrative users, click ![non-admin users button](/user-guide/images/non-admin-users.png).
+ * To clear the filter and view all users, click click ![clear search button](/user-guide/images/clear-search.png).
 
-## Searching for Users by Name
+## Searching for Users
 
-1. In the **Search by name** box, start typing any part of the user's name. Listener automatically filters the list of sources as you type.
+1. In the ![search users button](/user-guide/images/search.png) box, start typing any part of the user's name or email address. Listener automatically filters the list of sources as you type.
 2. To clear this search and view all users, remove the characters you typed in the **Search by name** box.
 
 ## Sorting Users in Descending or Ascending Order
