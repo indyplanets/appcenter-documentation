@@ -7,7 +7,7 @@ The root user can promote a user to Admin or demote them from Admin.
 ## Accessing Settings
 
 1. Log into AppCenter as a root user.
-2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Settings**. AppCenter displays the list of LDAP and Activie Directories.
+2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Settings**. AppCenter displays the list of LDAP and Active Directories.
 
 ### Viewing Domain Settings
 
