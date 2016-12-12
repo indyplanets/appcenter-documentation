@@ -47,5 +47,4 @@ By default, AppCenter sorts the list of users in ascending order.
  * To demote an Admin to a non-Admin, click ![demote from admin button](/user-guide/images/demote-admin.png).
 
 ## Related Topics
-* [Managing Users](manage-users.md)
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
