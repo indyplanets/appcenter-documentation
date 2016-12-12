@@ -10,8 +10,7 @@ From the **Manage Users** view, you can perform the following tasks:
 - Filter the list of users by administrative status
 - Search for users
 - Sort the list of users in descending or ascending order
-- Promote a Non-Admin user to an Admin
-- Demote an Admin user to a Non-Admin
+- Promote user to and from Admin status
 
 **Note**: You can combine view and search options.
 
@@ -40,6 +39,12 @@ By default, AppCenter sorts the list of users in ascending order.
 1. In the **User** header, do one of the following:
  * To sort by decending order (Z-A), click ![up arrow button](/user-guide/images/up-arrow.png).
  * To restore ascending order (A-Z), click ![down arrow button](/user-guide/images/down-arrow.png).
+
+## Promoting and Demoting users
+
+1. In card for the user you to promote or demote, do one of the following:
+ * To promote a non-Admin to an Admin, click ![promote to admin button](/user-guide/images/promote-admin.png).
+ * To demote an Admin to a non-Admin, click ![promote to admin button](/user-guide/images/promote-admin.png).
 
 ## Related Topics
 * [Managing Users](manage-users.md)
