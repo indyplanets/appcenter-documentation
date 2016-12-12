@@ -1,6 +1,6 @@
 You can edit apps from the following locations:
 
- - Dashboard
+ - **Overview** (Dashboard)
  - **Manage Apps** view
  - **Recent Activity** view 
 
