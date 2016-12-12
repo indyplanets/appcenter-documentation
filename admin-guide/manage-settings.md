@@ -8,11 +8,11 @@ The root user can promote a user to Admin or demote them from Admin.
 ## Accessing Settings
 
 1. Log into AppCenter as a root user.
-2. Click ![menu button](images/menu-button.png) and then click **Settings**. AppCenter displays the **LDAP & Activie Directory** list. 
+2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Settings**. AppCenter displays the **LDAP & Activie Directory** list. 
 
 ### Viewing Domain Settings
 
-1. In the domain card you want to view, click ![expand ldap settings](images/expand-settings.png).
+1. In the domain card you want to view, click ![expand ldap settings](/user-guide/images/expand-settings.png).
 
 ### Creating a Domain
 
@@ -24,7 +24,7 @@ The root user can promote a user to Admin or demote them from Admin.
 
 ### Editing a Domain
 
-1. In the domain card you want to edit, click ![expand ldap settings](images/expand-settings.png).
+1. In the domain card you want to edit, click ![expand ldap settings](/user-guide/images/expand-settings.png).
 2. Make the desired changes.
 3. Click **Test Connection**. A message appears indicating whether or not a connection was successful.
 4. Do one of the following:
@@ -33,10 +33,10 @@ The root user can promote a user to Admin or demote them from Admin.
 
 ### Deleting a Domain
 
-1. In the domain card you want to delete, click ![delete button](images/delete-button.png). A delete confirmation message appears.
+1. In the domain card you want to delete, click ![delete button](/user-guide/images/delete-button.png). A delete confirmation message appears.
 2. Click **DELETE**.
 
 ## Related Topics
 * [Managing Users](manage-users.md)
-* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
+* [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 
