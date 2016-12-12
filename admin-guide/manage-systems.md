@@ -3,7 +3,7 @@ Only root users will see the **Manage Systems** option in the navigation panel. 
 ## Accessing Systems
 
 1. Log into AppCenter as a root user.
-2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Manage Systems**. AppCenter displays list of systems.
+2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Manage Systems**.
 
 ### Viewing System Settings
 
