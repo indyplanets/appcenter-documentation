@@ -10,7 +10,7 @@ From the **Manage Users** view, you can perform the following tasks:
 - Filter the list of users by administrative status
 - Search for users
 - Sort the list of users in descending or ascending order
-- Promote user to and from Admin status
+- Promote users to and from Admin status
 
 **Note**: You can combine view and search options.
 
