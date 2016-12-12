@@ -1,36 +1,51 @@
 Only Admin users will see the **Logs** option in the navigation panel. From **Logs**, you can view System Logs and Audit Logs. 
-
 System Logs are divided into two segments as illustrated here:
 
 ![logs toolbar](/user-guide/images/logs-toolbar.png)
 
-- - All Log Levels
-  - Runtime Logs
-  - Error Logs
-
 For System Logs, you can perform the following tasks:
 
-- Filter the list by the following:
-  - All Log Levels
-  - Runtime Logs
-  - Error Logs
-
-- In combination with the View all or filtered System Logs 
-  
+- View all logs from both segments
+- Filter the logs in each segment
+- Search for a log entry
 - Specify the number of log rows to appear on a page
-- View all user actions
-- Filter the user log by action type
-- Filter the user log by user name
-- Filter the user log by successful or failed actions
-- View all system errors
-- Filter the system error log by type (Mesos or Zookeeper)
-- Search for a system error by term
-- Export the system error log (all or filtered)
 
-**Note**: You can combine filtering options in **USER AUDIT LOGS** and **SYSTEM ERROR LOGS**.
+For Audit Logs, you can perform the following tasks:
 
-## Viewing Logs
+- View all logs
+- Search for a log entry
 
+## Viewing System Logs
+
+When you select Logs from the navigation panel, AppCenter displays all logs by default.
+
+## Filtering System Logs
+
+1. In each segment of the toolbar, click the desired filter.
+2. To clear the filters and view all logs in both segments, do the following:
+  *  In the left segment of the toolbar, click ![all system logs button](/user-guide/images/filter-logs.png).
+  *  In the right segment of the toolbar, click ![all services logs button](/user-guide/images/all-services.png)
+
+## Searching for Users
+
+1. In the ![search users box](/user-guide/images/search.png) box, start typing any part of the user's name or email address. AppCenter filters the list of users as you type.
+2. To clear this search filter and view all users, click ![clear search button](/user-guide/images/clear-search.png).
+
+**Tip**:  To hide the search filter box, click ![hide search filter](/user-guide/images/hide-search-filter.png).
+
+## Sorting Users in Descending or Ascending Order
+
+By default, AppCenter sorts the list of users in ascending order.
+
+1. In the **User** header, do one of the following:
+ * To sort by decending order (Z-A), click ![up arrow button](/user-guide/images/up-arrow.png).
+ * To restore ascending order (A-Z), click ![down arrow button](/user-guide/images/down-arrow.png).
+
+## Promoting and Demoting users
+
+1. In the card for the user you to promote or demote, do one of the following:
+ * To promote a non-Admin to an Admin, click ![promote to admin button](/user-guide/images/promote-admin.png).
+ * To demote an Admin to a non-Admin, click ![demote from admin button](/user-guide/images/demote-admin.png).
 1. In the **ADMIN** navigation panel, click **Logs**.
  
 ### Specifying the Number of Logs to Appear on a Page
