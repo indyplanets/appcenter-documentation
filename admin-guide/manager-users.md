@@ -1,8 +1,8 @@
-Only root users and Admins will see **Manage Users** in the navigation panel.
+Only Root users and Admins will see **Manage Users** in the navigation panel.
 
 ## How Users are Added
 
-When users who are part of an LDAP and Active Directory (configured by the root user) first log in, they are automatically added to the list of users. 
+When users who are part of an LDAP and Active Directory (configured by the Root user) first log in, they are automatically added to the list of users. 
 
 From the **Manage Users** view, you can perform the following tasks:
 
@@ -11,7 +11,7 @@ From the **Manage Users** view, you can perform the following tasks:
 - Search for users
 - Sort the list of users in descending or ascending order
 - Hide the search bar
-- - Promote a Non-Admin user to an Admin
+- Promote a Non-Admin user to an Admin
 - Demote an Admin user to a Non-Admin
 
 **Note**: You can combine view and search options.
@@ -29,23 +29,18 @@ From the **Manage Users** view, you can perform the following tasks:
 
 ## Searching for Users
 
-1. In the ![search users button](/user-guide/images/search.png) box, start typing any part of the user's name or email address. Listener automatically filters the list of sources as you type.
-2. To clear this search and view all users, remove the characters you typed in the **Search by name** box.
+1. In the ![search users box](/user-guide/images/search.png) box, start typing any part of the user's name or email address. Listener filters the list of sources as you type.
+2. To clear this search and view all users, click ![clear search button](/user-guide/images/clear-search.png).
+
+**Tip**:  To hide the search box, click ![hide search button](/user-guide/images/hide-search.png)
 
 ## Sorting Users in Descending or Ascending Order
 
-By default, Listener sorts the list of users in ascending order (A-Z).
+By default, AppCenter sorts the list of users in ascending order.
 
-1. In the **NAME** header, do one of the following:
- * To sort by descending order (Z-A), click the down arrow next to **NAME**.
- * To restore ascending order (A-Z), click the up arrow next to **NAME**.
-
-## Editing Permissions for users
-
-1. In the user list, click the pencil button.
-2. To promote a user to an administrator or demote an administrative user, click the **Promote to admin** switch and click **CLOSE**. One of the following occurs:
- * If you promoted a user to an admin, an orange shield appears next to that user's name.
- * If you demoted a user, a gray shield appears next to that user's name.
+1. In the **User** header, do one of the following:
+ * To sort by decending order (Z-A), click ![up arrow button](/user-guide/images/up-arrow.png).
+ * To restore ascending order (A-Z), click ![down arrow button](/user-guide/images/down-arrow.png).
 
 ## Related Topics
 * [Managing Users](manage-users.md)
