@@ -21,7 +21,7 @@ For each app run, AppCenter creates results records and logs. The user role, app
 
 ### Searching for Log Results
 
-1. In the line next to ![search logs button](images/search-logs.png), type the search criteria and press **Enter**. To clear the search criteria, click ![clear log search button](images/clear-log-search.png).
+1. In the line next to ![search logs button](images/search.png), type the search criteria and press **Enter**. To clear the search criteria, click ![clear log search button](images/clear-search.png).
 2. [Optional] to filter the log list by successful app runs (info) or failed runs (errors), click ![filter logs button](images/filter-logs.png) and then click either **Info Logs** or **Error Logs**. To clear the filter, click ![clear log filter button](images/clear-log-filter.png), and then click ![filter logs button](images/filter-logs.png).
 3. [Optional] To refresh the log list, click ![refresh log button](images/refresh-logs.png).
 
