@@ -2,8 +2,6 @@ Only root users will see the **Settings** option in the navigation panel. From *
 
 Once you set up a domain, all users who are part of that domain can log in. Once they log in, AppCenter recognizes them as an AppCenter user. 
 
-The root user can promote a user to Admin or demote them from Admin. 
-
 ## Accessing Settings
 
 1. Log into AppCenter as a root user.
