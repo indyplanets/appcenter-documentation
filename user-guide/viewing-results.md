@@ -4,8 +4,8 @@ For each app run, AppCenter creates results records and logs. The user role, app
 
 1. Do one of the following:
   * If the app just finished running, click the `Run #...` line at the top of the list. 
-  * Click the app in the Dashboard or **Manage Apps**, and then click the `Run #...` line or ![view results button](images/view-results.png) for the app run you want.
-2. For successful app runs, click the *View result data set...** link to view result records. 
+  * Click the app in the Dashboard or **Manage Apps**, and then click the `Run #...` line for the app run you want.
+2. For successful app runs, click the **View result data set...** link or ![view results button](images/view-results.png) to view result records. 
 
   **Note:** If the app run failed, there are no app run result details. AppCenter provides error information in the logs. See [Viewing App Results Logs](#viewing-app-results-logs)
 
