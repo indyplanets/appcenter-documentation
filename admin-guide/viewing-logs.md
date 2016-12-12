@@ -1,4 +1,11 @@
 Only Admin users will see the **Logs** option in the navigation panel. From **Logs**, you can view System Logs and Audit Logs. 
+
+## Accessing Logs
+
+In the upper-left corner, click ![menu button](user-guide/images/menu-button.png) and then click one fo the following:
+ * **System Logs**
+ * **Audit Logs**
+
 ## System Logs
 
 System Logs is the default view and is divided into two segments as illustrated here:
