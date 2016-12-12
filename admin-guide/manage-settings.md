@@ -5,7 +5,7 @@ Once you set up a domain, all users who are part of that domain can log in. Once
 ## Accessing Settings
 
 1. Log into AppCenter as a root user.
-2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Settings**. AppCenter displays the list of LDAP and Active Directories.
+2. Click ![menu button](/user-guide/images/menu-button.png) and then click **Settings**.
 
 ### Viewing Domain Settings
 
