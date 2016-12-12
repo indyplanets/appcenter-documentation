@@ -23,7 +23,7 @@ When you log into AppCenter as a Root user, AppCenter displays all users by defa
 1. Under **Users**, do any of the following:
  * To filter by Admins, click ![admin users button](/user-guide/images/admin-users.png).
  * To filter by non-Admin users, click ![non-admin users button](/user-guide/images/non-admin-users.png).
- * To clear the filter and view all users, click click ![clear search button](/user-guide/images/clear-search.png).
+ * To clear the filter and view all users, click ![clear search button](/user-guide/images/clear-search.png).
 
 ## Searching for Users
 
