@@ -10,7 +10,6 @@ From the **Manage Users** view, you can perform the following tasks:
 - Filter the list of users by administrative status
 - Search for users
 - Sort the list of users in descending or ascending order
-- Hide the search bar
 - Promote a Non-Admin user to an Admin
 - Demote an Admin user to a Non-Admin
 
