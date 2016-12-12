@@ -14,7 +14,7 @@ Once you set up a domain, all users who are part of that domain can log in. Once
 ### Creating a Domain
 
 1. In the **LDAP & Active Directory** list, click ![create domain button](/user-guide/images/add-orange.png).
-2. Click **Test Connection**. A message appears indicating whether or not a connection was successful.
+2. Enter the domain information and click **Test Connection**. A message appears indicating whether or not a connection was successful.
 3. Do one of the following:
  * If the connection was successful, click **Save**.
  * If the connection was not successful, modify the settings, test again, and save the domain when the connection is successful.
