@@ -16,7 +16,7 @@ The root user can promote a user to Admin or demote them from Admin.
 
 ### Creating a Domain
 
-1. In the **LDAP & Active DIrectory** list, click ![create app button](images/add-orange.png).
+1. In the **LDAP & Active DIrectory** list, click ![create domain button](/user-guide/images/add-orange.png).
 2. Click **Test Connection**. A message appears indicating whether or not a connection was successful.
 3. Do one of the following:
  * If the connection was successful, click **Save**.
