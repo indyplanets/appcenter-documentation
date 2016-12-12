@@ -9,27 +9,22 @@ Only root users will see the **Manage Systems** option in the navigation panel. 
 
 1. In the system card you want to view, click ![open system button](/user-guide/images/open-system.png).
 
-### Creating a Domain
+### Creating a System
 
-1. In the **LDAP & Active DIrectory** list, click ![create domain button](/user-guide/images/add-orange.png).
-2. Click **Test Connection**. A message appears indicating whether or not a connection was successful.
+1. In the **Manage Systems** list, click ![create system button](/user-guide/images/add-orange.png).
+2. Enter the system information and click **Test Connection**. A message appears indicating whether or not a connection was successful.
 3. Do one of the following:
  * If the connection was successful, click **Save**.
- * If the connection was not successful, modify the settings, test again, and save the domain when the connection is successful.
+ * If the connection was not successful, modify the settings, test again, and save the system when the connection is successful.
 
-### Editing a Domain
+### Editing a System
 
-1. In the domain card you want to edit, click ![expand ldap settings](/user-guide/images/expand-settings.png).
+1. In the system card you want to edit, click ![open system button](/user-guide/images/open-system.png).
 2. Make the desired changes.
 3. Click **Test Connection**. A message appears indicating whether or not a connection was successful.
 4. Do one of the following:
  * If the connection was successful, click **Save**.
  * If the connection was not successful, modify the settings, test again, and save the domain when the connection is successful.
-
-### Deleting a Domain
-
-1. In the domain card you want to delete, click ![delete button](/user-guide/images/delete-button.png). A delete confirmation message appears.
-2. Click **DELETE**.
 
 ## Related Topics
 * [Managing Users](manage-users.md)
