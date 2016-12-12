@@ -16,7 +16,7 @@ From the **Manage Users** view, you can perform the following tasks:
 
 ## Viewing the List of All Users
 
-When you log into AppCenter as a root user, AppCenter displays all users by default.
+When you log into AppCenter as a Root user, AppCenter displays all users by default.
 
 ## Filtering Users by Administrative Status
 
