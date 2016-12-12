@@ -28,7 +28,7 @@ When you log into AppCenter as a Root user, AppCenter displays all users by defa
 ## Searching for Users
 
 1. In the ![search users box](/user-guide/images/search.png) box, start typing any part of the user's name or email address. AppCenter filters the list of users as you type.
-2. To clear this search and view all users, click ![clear search button](/user-guide/images/clear-search.png).
+2. To clear this search filter and view all users, click ![clear search button](/user-guide/images/clear-search.png).
 
 **Tip**:  To hide the search box, click ![hide search button](/user-guide/images/hide-search.png).
 
