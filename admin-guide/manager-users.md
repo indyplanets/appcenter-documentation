@@ -43,8 +43,8 @@ By default, AppCenter sorts the list of users in ascending order.
 ## Promoting and Demoting users
 
 1. In the card for the user you to promote or demote, do one of the following:
- * To promote a non-Admin to an Admin, click ![promote to admin button](/user-guide/images/promote-admin.png).
- * To demote an Admin to a non-Admin, click ![demote from admin button](/user-guide/images/demote-admin.png).
+ * To promote a non-Admin to an Admin, click ![slider off button](/user-guide/images/slider-off.png).
+ * To demote an Admin to a non-Admin, click ![slider on buton](/user-guide/images/slider-on.png).
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
