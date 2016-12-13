@@ -4,10 +4,10 @@ AppCenter is a runtime for creating and running analytic applications.
 
 <div class="row">
  <div class="grid-4">
- <a href="user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-desktop"></i> USER GUIDE</a>
+ <a href="user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-desktop"></i> User Guide</a>
  </div>
  <div class="grid-4">
- <a href="admin-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>ADMIN GUIDE</a>
+ <a href="admin-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>Admin Guide</a>
  </div>
  <div class="grid-4">
  <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> APIs</a>
@@ -15,13 +15,13 @@ AppCenter is a runtime for creating and running analytic applications.
 </div>
 <div class="row">
  <div class="grid-4">
- <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> INSTALLATION</a>
+ <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> Installation</a>
  </div>
  <div class="grid-4">
- <a href="troubleshooting/intro.md" class="btn btn-raised btn-block"><i class="fa fa-question-circle"></i> TROUBLESHOOTING</a>
+ <a href="troubleshooting/intro.md" class="btn btn-raised btn-block"><i class="fa fa-question-circle"></i> Troubleshooting</a>
  </div>
  <div class="grid-4">
- <a href="GLOSSARY.md" class="btn btn-raised btn-block"><i class="fa fa-book"></i> GLOSSARY</a>
+ <a href="GLOSSARY.md" class="btn btn-raised btn-block"><i class="fa fa-book"></i> Glossary</a>
  </div>
 </div>
 
