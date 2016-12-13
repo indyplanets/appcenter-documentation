@@ -1,4 +1,4 @@
-Only Admin users will see the **Logs** option in the navigation panel. From **Logs**, you can view System Logs and Audit Logs. 
+Only Admin users will see the **Logs** option in the navigation panel.
 
 ## Accessing Logs
 
