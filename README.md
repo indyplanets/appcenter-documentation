@@ -25,14 +25,6 @@ AppCenter is a runtime for creating and running analytic applications.
  </div>
 </div>
 
-## Common Tasks
-
-**I've installed AppCenter. Now what?**
-
-1. Set up LDAP in [Settings](user-guide/settings.md) for one or more groups so users can log in.
-2. Promote users to admin in [Manage Users](user-guide/manage-users.md).
-3. View the AppCenter sample app to get you started _**status of sample app??**_.
-
 ## Contributing to AppCenter Documentation
 
 All you need is a GitHub ID, and you can propose changes to the AppCenter documentation by doing the following:
