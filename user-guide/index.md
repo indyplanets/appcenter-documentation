@@ -10,7 +10,7 @@ Learn how to log in and out of AppCenter and access documentation.
 
 1. Open a browser.
 2. Enter the address for AppCenter. The **Login** page appears.
-3. Log into AppCenter using your corporate LDAP credentials or as the Root user. 
+3. Log into AppCenter using your corporate LDAP credentials or as Root user. 
 
 Your user role determines what appears when you first log in and the features you can access.
 
