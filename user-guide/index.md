@@ -34,10 +34,10 @@ From the AppCenter documentation, you can do the following:
 
 ### Logging Out
 
-1. In the AppCenter upper-left corner, click ![menu button](menu-button.png) and then click ![logout](/user-guide/images/logout.png).
+1. In the AppCenter upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logout](/user-guide/images/logout.png).
 2. Click **Logout**.
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
-* [AppCenter Documentation](../documentation/README.MD)
+* [AppCenter Documentation](README.MD)
 * [Dedication to Public Domain Agreement](CONTRIBUTING-DOCUMENTATION.md)
