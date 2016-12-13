@@ -50,7 +50,7 @@ You can filter System Logs as follows:
 
 The default setting for number of logs per page is 50. To change this setting, do the following:
 
-1. In the lower right of the logs page, in the **Rows per page** list, select the number of logs you want to appear on the page (**10**, **25**, **50**, or **100**, or **200**).
+1. In the lower-right corner of the **Logs** view, in the **Rows per page** list, select the number of logs you want to appear on the page (**10**, **25**, **50**, or **100**, or **200**).
 
   When you select **Audit Logs** or log out, AppCenter restores the default setting for **System Logs** of 50 logs per page.
 
