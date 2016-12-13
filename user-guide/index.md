@@ -39,5 +39,4 @@ From the AppCenter documentation, you can do the following:
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
-* [AppCenter Documentation](README.MD)
-* [Dedication to Public Domain Agreement](CONTRIBUTING-DOCUMENTATION.md)
+[Test](../documentation/README.md)
