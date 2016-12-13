@@ -20,7 +20,7 @@ Your user role determines what appears when you first log in and the features yo
  * In the upper right, click the question mark button.
  * In your browser, go to: **_NEED URL_**
 
-From **Teradata AppCenter Documentation**, you can do the following:
+From the AppCenter documentation**, you can perform the following tasks:
 
 * Search the documentation by keywords
 * Download documentation to a PDF file
