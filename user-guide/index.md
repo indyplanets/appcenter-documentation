@@ -17,25 +17,24 @@ Your user role determines what appears when you first log in and the features yo
 ### Accessing AppCenter Documentation
 
 1. Do one of the following:
- * In the upper right, click the question mark button. **_NOT THERE NOW... NEXT RELEASE?_**
+ * In the AppCenter upper-corner, click the question mark button. **_NOT THERE NOW... NEXT RELEASE?_**
  * In your browser, go to: **_NEED URL_**
 
 From the AppCenter documentation, you can do the following:
-
 * Search the documentation by keywords
 * Download documentation to a PDF file
 * Suggest changes to the documentation (requires completion of the [Dedication to Public Domain Agreement (DPDA)](CONTRIBUTING-DOCUMENTATION.md))
  
 #### Downloading Documentation to a PDF File
 
-1. In the toolbar, click **DOWNLOAD PDF**. 
+1. In the documentation toolbar, click **DOWNLOAD PDF**. 
 2. Do one of the following: 
  * Click **Save File** to download the PDF.
- * Click **Open with** to open the PDF.
+ * Click **Open with** to download and automatically open the PDF.
 
 ### Logging Out
 
-1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logout](/user-guide/images/logout.png).
+1. In the AppCenter upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logout](/user-guide/images/logout.png).
 2. Click **Logout**.
 
 ## Related Topics
