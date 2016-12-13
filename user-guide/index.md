@@ -17,7 +17,7 @@ Your user role determines what appears when you first log in and the features yo
 ### Accessing AppCenter Documentation
 
 1. Do one of the following:
- * In the upper right, click the question mark button.
+ * In the upper right, click the question mark button. **_NOT THERE NOW... NEXT RELEASE?_**
  * In your browser, go to: **_NEED URL_**
 
 From the AppCenter documentation**, you can perform the following tasks:
