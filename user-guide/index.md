@@ -28,7 +28,7 @@ From the AppCenter documentation, you can do the following:
  
 #### Downloading Documentation to a PDF File
 
-1. In the upper left, click **DOWNLOAD PDF**. 
+1. In the toolbar, click **DOWNLOAD PDF**. 
 2. Do one of the following: 
  * Click **Save File** to download the PDF.
  * Click **Open with** to open the PDF.
