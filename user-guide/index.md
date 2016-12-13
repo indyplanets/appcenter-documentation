@@ -42,4 +42,4 @@ From the AppCenter documentation, you can do the following:
 * [AppCenter Documentation](README.MD)
 * [Dedication to Public Domain Agreement](CONTRIBUTING-DOCUMENTATION.md)
 * 
-see [Ingest Authorization](../README.MD)
+[a relative link](README.md)
