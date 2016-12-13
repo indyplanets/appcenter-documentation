@@ -23,7 +23,7 @@ Your user role determines what appears when you first log in and the features yo
 From the AppCenter documentation, you can do the following:
 * Search the documentation by keywords
 * Download documentation to a PDF file
-* Suggest changes to the documentation (requires completion of the [Dedication to Public Domain Agreement](/documentation/CONTRIBUTING-DOCUMENTATION.md)
+* Suggest changes to the documentation (requires completion of the Dedication to Public Domain Agreement)
  
 #### Downloading Documentation to a PDF File
 
@@ -40,3 +40,4 @@ From the AppCenter documentation, you can do the following:
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 * [AppCenter Documentation](README.MD)
+* [Dedication to Public Domain Agreement](CONTRIBUTING-DOCUMENTATION.md)
