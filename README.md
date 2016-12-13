@@ -4,24 +4,24 @@ AppCenter is a runtime for creating and running analytic applications.
 
 <div class="row">
  <div class="grid-4">
- <a href="user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-desktop"></i> User Guide</a>
+ <a href="user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-desktop"></i> USER GUIDE</a>
  </div>
  <div class="grid-4">
- <a href="ingest/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> ABC API</a>
+ <a href="ingest/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>APIs</a>
  </div>
  <div class="grid-4">
- <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> DEF API</a>
+ <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> INSTALLATION</a>
  </div>
 </div>
 <div class="row">
  <div class="grid-4">
- <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> Installation</a>
+ <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> EXAMPLE APP</a>
  </div>
  <div class="grid-4">
- <a href="troubleshooting/intro.md" class="btn btn-raised btn-block"><i class="fa fa-question-circle"></i> Troubleshooting</a>
+ <a href="troubleshooting/intro.md" class="btn btn-raised btn-block"><i class="fa fa-question-circle"></i> TROUBLESHOOTING</a>
  </div>
  <div class="grid-4">
- <a href="GLOSSARY.md" class="btn btn-raised btn-block"><i class="fa fa-book"></i> Glossary</a>
+ <a href="GLOSSARY.md" class="btn btn-raised btn-block"><i class="fa fa-book"></i> GLOSSARY</a>
  </div>
 </div>
 
