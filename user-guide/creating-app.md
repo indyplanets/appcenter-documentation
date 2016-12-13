@@ -2,8 +2,8 @@ You can create SQL, BTEQ, or Java apps from the Dashboard or [Manage Apps](manag
 
 1. From the **Dashboard** or **Manage Apps** view, click ![create app button](images/add-orange.png). 
 
-  **Note**:  If you have not created any apps yet, AppCenter displays quickstart buttons at the top of the Dashboard for a guided approach with your first app, including sample SQL, Java, and BTEQ script files you can download.
-
+  **Note**:  If you have not created any apps yet, AppCenter displays quickstart buttons at the top of the Dashboard for a guided approach with your first app, including sample SQL, Java, and BTEQ script files you can download. One you create apps, you can access the quickstart options by clicking ![app quickstart buttons](images/app-question.png) in the top-right corner.  
+ 
 2. In the **App Info** card, complete the entries with the following considerations:
   * Once you save the **App Info** card, you cannot change the **App Type**.
   * Use the default **Memory**, **Processors**, and **CPUs** values, unless you encounter errors that indicate resources are limited after running the app.
