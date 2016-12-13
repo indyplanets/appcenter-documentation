@@ -1,7 +1,5 @@
-AppCenter includes sample apps to help you get started. 
+AppCenter includes a sample app to help you get started. 
 
-## Accessing Sample Apps
+## Using the AppCenter Sample App
 
-To access the apps and related resources, see the following:
-
-_**What have we settled on?**_
+_**What have we settled on? One sample app or more?**_
