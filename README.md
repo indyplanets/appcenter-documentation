@@ -31,17 +31,7 @@ AppCenter is a runtime for creating and running analytic applications.
 
 1. Set up LDAP in [Settings](user-guide/settings.md) for one or more groups so users can log in.
 2. Promote users to admin in [Manage Users](user-guide/manage-users.md).
-3. TBD.
-
-**I want to...**
-
-1. Do this.
-2. Do that.
-
-**I want to...**
-
-1. Do this.
-2. Do that.
+3. View the AppCenter sample app to get you started _**status of sample app??**_.
 
 ## Contributing to AppCenter Documentation
 
@@ -57,7 +47,6 @@ A Teradata team member will review any pull requests, confirm we received the DP
 ### GitHub Writing and Formatting Resources
 
 For help writing and formatting your comments, the following GitHub resources may be helpful:
-
 - [Basic Writing and Formatting Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Printable Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
