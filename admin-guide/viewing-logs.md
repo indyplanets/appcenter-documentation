@@ -27,8 +27,8 @@ When you select **Logs** from the navigation panel, AppCenter displays all Syste
 #### Filtering System Logs
 
 You can filter System Logs as follows:
-* View all the logs in one segment and filter the logs in the other segment
-* Filter logs in both segments
+ * View all the logs in one segment and filter the logs in the other segment
+ * Filter logs in both segments
 
 1. In each segment of the toolbar, click the desired filter.
 2. To clear the filters, do the following:
