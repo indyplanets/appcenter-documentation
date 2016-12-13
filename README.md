@@ -7,15 +7,15 @@ AppCenter is a runtime for creating and running analytic applications.
  <a href="user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-desktop"></i> USER GUIDE</a>
  </div>
  <div class="grid-4">
- <a href="ingest/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>APIs</a>
+ <a href="admin-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>ADMIN GUIDE</a>
  </div>
  <div class="grid-4">
- <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> INSTALLATION</a>
+ <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> APIs</a>
  </div>
 </div>
 <div class="row">
  <div class="grid-4">
- <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> EXAMPLE APP</a>
+ <a href="installation/prerequisites.md" class="btn btn-raised btn-block"><i class="fa fa-download"></i> INSTALLATION</a>
  </div>
  <div class="grid-4">
  <a href="troubleshooting/intro.md" class="btn btn-raised btn-block"><i class="fa fa-question-circle"></i> TROUBLESHOOTING</a>
