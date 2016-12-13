@@ -1,4 +1,4 @@
-Only Admin and Root users have access to the following features, as described in [User Roles](../user-guide/app-permission-user-role.md#User-Roles).
+Only Admins or the Root user can perform the following tasks, as described in [User Roles](../user-guide/app-permission-user-role.md#User-Roles):
 
 * [Manage Settings](manage-settings.md)
 * [Manage Systems](manage-systems.md)
