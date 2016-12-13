@@ -2,7 +2,7 @@ Only Admin users will see the **Logs** option in the navigation panel. From **Lo
 
 ## Accessing Logs
 
-In the upper-left corner, click ![menu button](user-guide/images/menu-button.png) and then click one fo the following:
+In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click one fo the following:
  * **System Logs**
  * **Audit Logs**
 
