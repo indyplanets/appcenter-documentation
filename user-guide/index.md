@@ -35,7 +35,7 @@ From the AppCenter documentation, you can do the following:
 
 ### Logging Out
 
-1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then ![logout](/user-guide/images/logout.png).
+1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logout](/user-guide/images/logout.png).
 2. Click **Logout**.
 
 ## Related Topics
