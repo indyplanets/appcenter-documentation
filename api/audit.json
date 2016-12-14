@@ -1,0 +1,595 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "Audit Service",
+    "version": "2.0",
+    "title": "Audit Service API",
+    "termsOfService": "http://uda.io",
+    "license": {
+      "name": "Apache License Version 2.0",
+      "url": "https://github.com/springfox/springfox/blob/master/LICENSE"
+    }
+  },
+  "host": "appcenter-audit-services-stg.ac.uda.io:443",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "audit-controller",
+      "description": "Audit Controller"
+    },
+    {
+      "name": "config-controller",
+      "description": "Config Controller"
+    }
+  ],
+  "paths": {
+    "/audit/messages": {
+      "get": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Fetch audit messages",
+        "description": "Use filter criteria to select desired messages",
+        "operationId": "getAuditMessagesUsingGET",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "filter",
+            "description": "filter",
+            "required": false,
+            "schema": {
+              "$ref": "#/definitions/MessageFilter"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the audit messages",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/AuditMessage"
+              }
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Create an audit message",
+        "description": "Create an audit message",
+        "operationId": "createMessageUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "auditMessage",
+            "description": "auditMessage",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully created the audit message",
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/audit/messages/{auditId}": {
+      "get": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Fetch an audit message",
+        "description": "Get details of a specific message",
+        "operationId": "getAuditMessageUsingGET",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "auditId",
+            "in": "path",
+            "description": "auditId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the audit message",
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/config": {
+      "get": {
+        "tags": [
+          "config-controller"
+        ],
+        "summary": "Fetch audit service configuration",
+        "description": "Get number of days that audit messages are retained",
+        "operationId": "getConfigUsingGET",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the service configuration",
+            "schema": {
+              "$ref": "#/definitions/Config"
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires admin authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "config-controller"
+        ],
+        "summary": "Configure the audit service",
+        "description": "Set number of days that audit messages are retained",
+        "operationId": "putConfigUsingPUT",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "config",
+            "description": "config",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Config"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully set the service configuration"
+          },
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires admin authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/v1/audit/messages": {
+      "get": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Fetch audit messages",
+        "description": "Use filter criteria to select desired messages",
+        "operationId": "getAuditMessagesUsingGET_1",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "filter",
+            "description": "filter",
+            "required": false,
+            "schema": {
+              "$ref": "#/definitions/MessageFilter"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the audit messages",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/AuditMessage"
+              }
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Create an audit message",
+        "description": "Create an audit message",
+        "operationId": "createMessageUsingPOST_1",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "auditMessage",
+            "description": "auditMessage",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully created the audit message",
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/v1/audit/messages/{auditId}": {
+      "get": {
+        "tags": [
+          "audit-controller"
+        ],
+        "summary": "Fetch an audit message",
+        "description": "Get details of a specific message",
+        "operationId": "getAuditMessageUsingGET_1",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "auditId",
+            "in": "path",
+            "description": "auditId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the audit message",
+            "schema": {
+              "$ref": "#/definitions/AuditMessage"
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/v1/config": {
+      "get": {
+        "tags": [
+          "config-controller"
+        ],
+        "summary": "Fetch audit service configuration",
+        "description": "Get number of days that audit messages are retained",
+        "operationId": "getConfigUsingGET_1",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the service configuration",
+            "schema": {
+              "$ref": "#/definitions/Config"
+            }
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires admin authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "config-controller"
+        ],
+        "summary": "Configure the audit service",
+        "description": "Set number of days that audit messages are retained",
+        "operationId": "putConfigUsingPUT_1",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "description": "Authentication Token",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "config",
+            "description": "config",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Config"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully set the service configuration"
+          },
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Request is invalid"
+          },
+          "401": {
+            "description": "Request requires admin authentication"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "AuditMessage": {
+      "type": "object",
+      "properties": {
+        "action": {
+          "type": "string"
+        },
+        "component": {
+          "type": "string"
+        },
+        "correlation_id": {
+          "type": "string"
+        },
+        "details": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "logtime": {
+          "type": "string"
+        },
+        "message": {
+          "type": "string"
+        },
+        "result": {
+          "type": "boolean"
+        },
+        "username": {
+          "type": "string"
+        }
+      }
+    },
+    "Config": {
+      "type": "object",
+      "properties": {
+        "retention_interval_in_days": {
+          "type": "integer",
+          "format": "int32"
+        }
+      }
+    }
+  }
+}
