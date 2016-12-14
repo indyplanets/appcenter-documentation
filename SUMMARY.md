@@ -25,5 +25,4 @@
     * [Query](api/query.md)
     * [System](api/system.md)
     * [User](api/user.md)
-* [Troubleshooting](troubleshooting/index.md)
 * [Release Notes](release-notes.md)
