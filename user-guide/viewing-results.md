@@ -1,4 +1,4 @@
-For each app run, AppCenter creates results records and logs. The user role, app permissions, and job results permissions determine who can see the list of app runs and logs and who can access result records. 
+For each app run, AppCenter creates results records and logs. The user role, app permissions, and job results permissions determine who can see the list of app runs and logs, and who can access result records. 
 
 ## Viewing App Results
 
