@@ -24,11 +24,11 @@ For System Logs, you can perform the following tasks:
 - Refresh the log list
 - Specify the number of log rows to appear on a page
 
-#### Viewing All System Logs
+### Viewing All System Logs
 
 When you select **Logs** from the navigation panel, AppCenter displays all System Logs by default.
 
-#### Filtering System Logs
+### Filtering System Logs
 
 You can filter System Logs as follows:
  * View all the logs in one segment and filter the logs in the other segment
@@ -39,14 +39,14 @@ You can filter System Logs as follows:
   *  In the left segment of the toolbar, click ![all system logs button](/user-guide/images/filter-logs.png).
   *  In the right segment of the toolbar, click ![all services logs button](/user-guide/images/all-services.png).
 
-#### Searching for System Logs
+### Searching for System Logs
 
 1. In the ![search logs box](/user-guide/images/search.png) box, start typing any part of the log entry. AppCenter filters the list as you type.
 2. To clear this search filter, click ![clear search button](/user-guide/images/clear-search.png).
 
 **Tip**:  To hide the search filter box, click ![hide search filter](/user-guide/images/hide-search-filter.png).
 
-#### Refreshing the System Log List
+### Refreshing the System Log List
 
 1. In the upper-right corner, click ![refresh logs button](/user-guide/images/refresh-logs.png).
 
