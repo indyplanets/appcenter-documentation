@@ -12,7 +12,7 @@
 ## Related Topics
 * [Dashboard](overview.md)
 * [Viewing an App](viewing-app.md)
-* [Managing Apps](manage-app.md)
+* [Managing Apps](managing-apps.md)
 * [Editing an App](editing-app.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
