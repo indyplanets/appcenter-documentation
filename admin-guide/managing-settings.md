@@ -34,6 +34,6 @@ Once you set up a domain, all users who are part of that domain can log in. Once
 2. Click **DELETE**.
 
 ## Related Topics
-* [Managing Users](manage-users.md)
+* [Managing Users](managing-users.md)
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 
