@@ -20,7 +20,7 @@ You can run an app manually any time, or select a schedule to run the app automa
 
 **Note:**  If you select a schedule to run the app automatically, you cannot remove or change the schedule after you submit it and run the app.
 
-1. Do one of the following::
+1. Do one of the following:
   *  At the bottom of the **Create/Edit App** view, click **Run App**.
   *  From the Dashboard or **Manage Apps**, click the app and then click **Execute App**. 
 2. Select a system, enter the credentials and click **Continue**.
