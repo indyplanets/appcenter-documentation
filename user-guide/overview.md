@@ -1,4 +1,4 @@
-Depnding on user role and app status, AppCenter displays one of the following when you log in:
+Depnding on user role and app status, AppCenter displays one of the following in the Overview (Dashboard) when you log in:
 
 | User Role          | App Status          |  Displays    |
 | ------             | -----------         |  ---------  |
@@ -7,7 +7,7 @@ Depnding on user role and app status, AppCenter displays one of the following wh
 | User or Admin      | Any | Create app button (![addd button](images/add-orange.png))       |
 | Root User          | Not applicable |  LDAP settings       |
 
-## Weclome Quickstart Card
+## Welcome Quickstart Card
 
 ![Dashboard with No Apps Created](images/overview-no-apps.png) 
 
