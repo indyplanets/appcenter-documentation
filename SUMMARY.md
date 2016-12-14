@@ -16,7 +16,7 @@
 * [Admin Guide](admin-guide/index.md)
     * [Managing Users](admin-guide/managing-users.md)
     * [Viewing Logs](admin-guide/viewing-logs.md)
-* [Root user Guide](root-user-guide/index.md)
+* [Root User Guide](root-user-guide/index.md)
     * [Managing Settings](admin-guide/managing-settings.md)
     * [Managing Systems](admin-guide/managing-systems.md)
     * [Managing Users](admin-guide/managing-users.md)
