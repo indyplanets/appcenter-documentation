@@ -16,13 +16,13 @@ When you access logs from the AppCenter menu, **System Logs** is the default log
 
   ![logs toolbar](/user-guide/images/logs-toolbar.png)
 
-For System Logs, you can perform the following tasks:
+  For System Logs, you can perform the following tasks:
 
-- View all logs from both segments
-- Filter the logs in each segment
-- Search for a log entry
-- Refresh the log list
-- Specify the number of log rows to appear on a page
+   - View all logs from both segments
+   - Filter the logs in each segment
+   - Search for a log entry
+   - Refresh the log list
+   - Specify the number of log rows to appear on a page
 
 ### Viewing All System Logs
 
@@ -58,7 +58,9 @@ The default setting for number of logs per page is 50. To change this setting, d
 
   AppCenter maintains this setting until you select **Audit Logs** or log out of AppCenter, at which time it restores the default setting of 50 logs per page.
 
-### Audit Logs
+## Viewing Audit Logs
+
+1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audti-log.png). 
 
 For Audit Logs, you can perform the following tasks:
 
