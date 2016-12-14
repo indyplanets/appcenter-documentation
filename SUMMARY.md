@@ -9,7 +9,7 @@
         * [Visualization Formats](user-guide/app-results-configuration-formats.md)
     * [Running an App](user-guide/running-app.md)
     * [Viewing App Results](user-guide/viewing-results.md)
-    * [Sharing RApp esults](user-guide/sharing-results.md)
+    * [Sharing App Results](user-guide/sharing-results.md)
     * [Managing Apps](user-guide/managing-apps.md)
         * [Editing an App](editing-app.md)
         * [Deleting an App](deleting-app.md)
