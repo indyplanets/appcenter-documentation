@@ -4,7 +4,7 @@ Only Admin users will see the **Logs** option in the navigation panel. The two l
  * 
 ## Accessing Logs
 
-
+1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logs button](/user-guide/images/logs.png).
 
 
 ## Accessing System Logs
