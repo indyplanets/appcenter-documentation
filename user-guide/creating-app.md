@@ -5,7 +5,7 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
 1. From the **Dashboard** or **Manage Apps** view, click ![create app button](images/add-orange.png). 
 2. In the **App Info** card, complete the entries with the following considerations:
   * Once you save the **App Info** card, you cannot change the **App Type**.
-  * Use the default **Memory**, **Processors**, and **CPUs** values, unless you encounter errors that indicate resources are limited after running the app.
+  * Use the default **Memory** and **Processors** values, unless you encounter errors that indicate resources are limited after running the app.
 3. Click **Save** to proceed to the **App Code** card.
 4. In the **App Code** card, do one of the following:
   * Click **Choose a File**, select the code file, and when the name of the file appears on the button, click it.
