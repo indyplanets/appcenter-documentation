@@ -17,7 +17,7 @@ You can edit the app you are viewing or open an app from the Dashboard or **Mana
 ## Related Topics
 * [Dashboard](overview.md)
 * [Viewing an App](viewing-app.md)
-* [Managing Apps](manage-apps.md)
+* [Managing Apps](managing-apps.md)
 * [Deleting an App](deleting-app.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
