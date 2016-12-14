@@ -1,8 +1,8 @@
 Only an Admin or the Root user can perform the following tasks:
 
-* [Manage Settings](manage-settings.md)
-* [Manage Systems](manage-systems.md)
-* [Manage Users](manage-users)
+* [Managing Settings](managing-settings.md)
+* [Managing Systems](managing-systems.md)
+* [Managing Users](managing-users)
 * [Viewing Logs](viewing-logs)
 
 ## Related Topics
