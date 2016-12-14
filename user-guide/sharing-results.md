@@ -1,4 +1,4 @@
-You can share all results, specific results, or make all results private. By default, job results are shared.
+You can share all results, specific results, or make all results private. By default, job results are public and available to all users who have access to he app.
 
 ## Making All Results Private and Available to only You
 
