@@ -60,7 +60,7 @@ The default setting for number of logs per page is 50. To change this setting, d
 
 ## Viewing Audit Logs
 
-1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audit-log.png). AppCenter displays all logs by default.
+1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audit-log.png). AppCenter displays all Audit Logs by default.
 
   With Audit Logs, you can perform the following tasks:
 
