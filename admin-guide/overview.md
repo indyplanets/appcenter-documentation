@@ -4,7 +4,7 @@ When you log in, AppCenter displays one of the following in the **Overview** (Da
 | ------             | -----------         |  ---------  |
 | No apps created yet |  Welcome quickstart card to guide you through app creation       |
 | Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
-| Any                 | Create app button (![add button](images/add-orange.png))       |
+| Any                 | Create app button (![add button](/user-guide/images/add-orange.png))       |
 
 
 ## Welcome Quickstart Card
