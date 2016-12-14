@@ -10,9 +10,20 @@ When you log in as a regular (non-Admin) user, AppCenter displays one of the fol
 
 ![Dashboard with No Apps Created](images/overview-no-apps.png) 
 
+## User Navigation Pane
+
+To open the user navigation pane, click ![menu button](/user-guide/images/menu-button.png). The navigation pane includes the following options:
+
+![user nav pane](/user-guide/images/user-nav-pane.png)
+
 To return to the Dashboard from any view, do the following:
 
-1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview**.
+1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click **Overview**.
+
+To log out of AppCenter, do the following:
+
+1. In the upper-left corner, click ![logout button](/user-guide/images/logout.png) and then click **Logout**.
+
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
