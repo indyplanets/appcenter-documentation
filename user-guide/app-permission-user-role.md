@@ -18,7 +18,7 @@ App permission settings determine who has access to the apps. These permissions 
 | ------------- | ------------- |
 | **Managers**  | When you create an app, AppCenter automatically makes you the first Manager. As a Manager, you can do the following: <ul><li>Add and remove additional Managers.</li><li>Edit or delete the app.</li></ul>|
 | **Privacy**  | When you create an app, AppCenter automatically makes it private, which means only Managers, Admins, or designated Private Users can see the app. Managers and Admins can turn privacy off to make the app public, which makes it visible to all users. |
-| **Private users** | Can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View the read-only list of job results.</li><li>View private job results if granted shared access.</li></ul>|
+| **Private users** | Can do the following: <ul><li>View the app in the Dashboard or **Manage Apps** view.</li><li>Run the app.</li><li>View private job results if granted shared access.</li></ul>|
 
 
 ##Job Results Permissions
