@@ -18,7 +18,7 @@ You can edit apps from the following locations:
 ## Related Topics
 * [Dashboard](overview.md)
 * [Viewing an App](viewing-app.md)
-* [Manage Apps](manage-apps.md)
+* [Managing Apps](manage-apps.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
 
