@@ -1,7 +1,7 @@
 # Summary
 * [Introduction](README.md)
 * [User Guide](user-guide/index.md)
-    * [Overview](overview.md)
+    * [Overview](user-guide/overview.md)
     * [User Roles and Permissions](user-guide/app-permissions-user-role.md)
     * [Example App](user-guide/example-app.md)
     * [Viewing an App](user-guide/viewing-app.md)
