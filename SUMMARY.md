@@ -19,7 +19,7 @@
 * [Root User Guide](root-user-guide/index.md)
     * [Managing Settings](root-user-guide/managing-settings.md)
     * [Managing Systems](root-user-guide/managing-systems.md)
-    * [Managing Users](root-user-guide/managing-users.md)
+    * [Managing Users](admin-guide/managing-users.md)
 * [API](api/index.md)
     * [App](api/app.md)
     * [Log](api/log.md)
