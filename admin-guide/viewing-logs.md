@@ -4,12 +4,15 @@ Only Admin users will see the **Logs** option in the navigation panel. The two l
  * 
 ## Accessing Logs
 
-1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logs button](/user-guide/images/logs.png).
+1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logs button](/user-guide/images/logs.png). AppCenter displays the **Logs** navigation panel with the following two options:
+  * **System Logs**
+  * **Audit Logs**
 
+## Viewing System Logs
 
-## Accessing System Logs
+When you access logs from the AppCenter menu, **System Logs** is the default log. To return to the **System Logs** from the **Audit Logs**, do the following:
 
-1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click **System Logs**.
+1. In the **Logs** navigation panel, click ![system log](/user-guide/images/system-log.png) and then click **System Logs**.
 
   ![logs toolbar](/user-guide/images/logs-toolbar.png)
 
