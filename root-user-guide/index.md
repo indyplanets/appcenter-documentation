@@ -2,7 +2,7 @@ A Root user can perform the following tasks:
 
 * [Manage Settings](managing-settings.md)
 * [Manage Systems](managing-systems.md)
-* [Manage Users](/admin-guide/managing-users.md)
+* [Manage Users](../admin-guide/managing-users.md)
 
 
 ## Related Topics
