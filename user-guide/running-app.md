@@ -29,7 +29,7 @@ You can run an app manually any time, or select a schedule to run the app automa
    * If you entered required parameters for this app or optional parameters that you want to use for this job run, click the slider for the parameter(s), and click **Continue**.
    * If you entered optional parameters for this app that you want to ignore for this job run, click **Clear**.
 4. Select **Daily** or **Advanced**, specify the schedule options, and click **Continue**.
-5. Review the Schedule options and click **Submit**.
+5. Review the schedule options and click **Submit**.
 6. Click **Run Now**.
 
 ## Related Topics
