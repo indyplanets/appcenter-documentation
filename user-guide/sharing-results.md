@@ -10,7 +10,7 @@ You can share all results, specific results, or make all results private. By def
 
 1. [View App Results](viewing-results.md).
 2. Click the `Run #...` line, and next to **Job Results** click ![share results button](images/share-results.png).
-3. Click ![privacy off button](images/slider-off.png). AppCenter turns results privacy on (![privacy on button](images/slider-on.png)
+3. Click ![privacy off button](images/slider-off.png). AppCenter turns results privacy on (![privacy on button](images/slider-on.png)).
 4. In the **Add users** field, type the name of the user you want to have access to these results and press **Enter.** Repeat this step for additional users you want to have access to these results.
 5. When you have entered all users, click **SHARE**. AppCenter turns privacy on for all job results listed under that run and provides access to only the specified users.
 
