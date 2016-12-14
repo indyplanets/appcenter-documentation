@@ -31,7 +31,7 @@ You can share all results, specific results, or make all results private. By def
   * If you made all results for a particular run private, then click **Job Results**.
   * If you made only certain results for a particular run private, click the desired ```View result data set...``` row.
 3. Click ![share results button](images/share-results.png), and then click ![privacy on button](images/slider-on.png). 
-4. Click **SHARE**. AppCenter turns privacy off (![privacy off button](images/slider-off.png)for that job run or that particular job result. 
+4. Click **SHARE**. AppCenter turns privacy off (![privacy off button](images/slider-off.png)) for that job run or that particular job result. 
 
 ## Related Topics
 * [Running an App](running-app.md)
