@@ -1,4 +1,4 @@
-## Editing an app from the Dashboard or **Manage Apps** View
+## Editing an app from the Dashboard or Manage Apps View
 
 1. Click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**.
   
