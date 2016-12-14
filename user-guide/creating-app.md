@@ -29,7 +29,7 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
 
 14. [Optional] In the **App Permissions** card, do the following to change the defaults:
    15. To add additional Managers, begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a Manager for the app.
-   16. To make this app public instead of private, click the slider next to **Privacy On**. Click it again to make this app private again.
+   16. To make this app public instead of private, click ![privacy off button](images/slider-off.png). Click it again to make this app private again.
    17. To add additional users to a private app, click the line below **Private users**, type the name of the user, and then press **Enter**. Repeat this step for each additional user you want to be a Private user.
 18. Click **Save & Continue**.
 19. Do one of the following:
@@ -37,7 +37,7 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
       20. Click **Run App**.
       21. Select a system and enter the credentials.
       22. If you entered parameters for this app, click **Continue** to use them for this job run, or click **Clear** if they are not required parameters and you don't want to use them for this run.
-      23. [Optional] Select **Schedule** options. and select **Daily** or **Advanced** run times.
+      23. [Optional] Select the **Schedule** options, and select **Daily** or **Advanced** run times.
       24. Click **Run Now**.
    * To review the app, click **View App** and then click ![edit button](images/edit-app.png).
 
