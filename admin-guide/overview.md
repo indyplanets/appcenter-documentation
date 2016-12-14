@@ -6,10 +6,15 @@ When you log in as Admin, AppCenter displays one of the following in the **Overv
 | Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
 | Any                 | Create app button (![add button](/user-guide/images/add-orange.png))       |
 
-
 ## Welcome Quickstart Card
 
 ![Dashboard with No Apps Created](/user-guide/images/overview-no-apps.png) 
+
+## Admin Navigation Pane
+
+To open the Admin navigation pane, click click ![menu button](/user-guide/images/menu-button.png). The navigation pane includes the following options:
+
+![admin nav panel](/user-guide/images/admin-nav-panel.png)
 
 To return to the Dashboard from any view, do the following:
 
