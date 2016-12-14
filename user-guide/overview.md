@@ -18,3 +18,4 @@ To return to the Dashboard from any view, do the following:
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
 * [Admin Guide](../admin-guide/index.md)
+* [Root User Guide](../root-user-guide/index.md)
