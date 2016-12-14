@@ -1,4 +1,4 @@
-Only Root users and Admins will see **Manage Users** in the navigation panel.
+Only Root users and Admins will see the **Manage Users** option in the navigation panel.
 
 ## How Users are Added
 
