@@ -6,7 +6,7 @@ You can edit apps from the following locations:
 
 1. Do one of the following:
  * Click ![menu button](images/menu-button.png) and then click **Overview** or **Manage Apps**. 
- * View the app and then click ![edit button](images/edit-app.png).
+ * [View the App](viewing-app.md) and then click ![edit button](images/edit-app.png).
 
   AppCenter displays ![more options button](images/more-options.png) next to the apps you can edit.
 
@@ -17,6 +17,7 @@ You can edit apps from the following locations:
 
 ## Related Topics
 * [Dashboard](overview.md)
+* [Viewing an App](viewing-app.md)
 * [Manage Apps](manage-apps.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
