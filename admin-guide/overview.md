@@ -20,6 +20,10 @@ To return to the Dashboard from any view, do the following:
 
 1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click **Overview**.
 
+To log out of AppCenter, do the following:
+
+1. In the upper-left corner, click ![logout button](/user-guide/images/logout.png) and then click **Logout**.
+
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 * [Admin Guide](../admin-guide/index.md)
