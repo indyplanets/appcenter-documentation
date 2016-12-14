@@ -14,7 +14,7 @@ When you log in as Admin, AppCenter displays one of the following in the **Overv
 
 To open the Admin navigation pane, click ![menu button](/user-guide/images/menu-button.png). The navigation pane includes the following options:
 
-![admin nav panel](/user-guide/images/admin-nav-panel.png)
+![admin nav pane](/user-guide/images/admin-nav-pane.png)
 
 To return to the Dashboard from any view, do the following:
 
