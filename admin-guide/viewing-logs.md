@@ -50,7 +50,7 @@ You can filter System Logs as follows:
 
 1. In the upper-right corner, click ![refresh logs button](/user-guide/images/refresh-logs.png).
 
-#### Specifying the Number of System Logs to Appear on a Page
+### Specifying the Number of System Logs to Appear on a Page
 
 The default setting for number of logs per page is 50. To change this setting, do the following:
 
