@@ -1,7 +1,7 @@
 Only Admin users will see the **Logs** option in the navigation panel. The two logs available to Admins are the following:
  * **System Logs**
  * **Audit Logs**
- * 
+ 
 ## Accessing Logs
 
 1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logs button](/user-guide/images/logs.png). AppCenter displays the **Logs** navigation panel with the following two options:
