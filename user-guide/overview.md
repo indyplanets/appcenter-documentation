@@ -7,6 +7,10 @@ Depnding on user role and app status, AppCenter displays one of the following wh
 | User or Admin      | Any | Create app button (![addd button](images/add-orange.png))       |
 | Root User          | Not applicable |  LDAP settings       |
 
+## Weclome Quickstart Card
+
+![Dashboard with No Apps Created](images/overview-no-apps.png) 
+
 To return to the Dashboard from any view, do the following:
 
 1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview**.
