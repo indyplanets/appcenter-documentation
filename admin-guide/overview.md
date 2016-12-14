@@ -1,11 +1,11 @@
-Depnding on user role and app status, AppCenter displays one of the following in the **Overview** (Dashboard) when you log in:
+When you log in, AppCenter displays one of the following in the **Overview** (Dashboard):
 
-| User Role          | App Status          |  Display    |
+ App Status          |  Display    |
 | ------             | -----------         |  ---------  |
-| User or Admin      | No apps created yet |  Welcome quickstart card to guide you through app creation       |
-| User or Admin      | Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
-| User or Admin      | Any | Create app button (![addd button](images/add-orange.png))       |
-| Root User          | Not applicable |  LDAP settings       |
+| No apps created yet |  Welcome quickstart card to guide you through app creation       |
+| Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
+| Any                 | Create app button (![add button](images/add-orange.png))       |
+
 
 ## Welcome Quickstart Card
 
@@ -16,6 +16,6 @@ To return to the Dashboard from any view, do the following:
 1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview**.
 
 ## Related Topics
-* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
+* [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 * [Admin Guide](../admin-guide/index.md)
 * [Root User Guide](../root-user-guide/index.md)
