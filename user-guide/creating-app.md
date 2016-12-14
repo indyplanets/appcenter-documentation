@@ -17,7 +17,9 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
   7. If you want this field to be required when the app runs, which means the app will fail if this information is not present, click the slider next to **Required**. Click it again to remove the requirement.
   8. Repeat these steps to add additional parameters.
   9. Click **Save & Continue**.
+
    **Note**:  To skip this section, click either **AppResults Configurations** or **App Permissions**.
+   
 10. [Optional] In the **App Results Configurations** card, do the following to generate a visualization for this app:
    11. Click **Add Field**, click **(name)**, and complete the settings. 
    12. Repeat these steps to add additional settings.
