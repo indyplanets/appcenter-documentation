@@ -42,6 +42,7 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
    * To review the app, click **View App** and then click ![edit button](images/edit-app.png).
 
 ## Related Topics
+* [Dashboard](overview.md)
 * [App Results Configurations Formats and Types](app-results-configuration-formats.md)
 * [Running an App](running-app.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
