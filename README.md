@@ -1,4 +1,4 @@
-Teradata AppCenter (AppCenter) is self-service execution platform for creating and running custom SQL, BTEQ, or Java applications (apps). These apps query data from Teradata, Aster, or Presto systems and return a result set that can include visualizations. AppCenter includes privacy settings for both the apps and results. You can run apps on demand or set up a schedule to run them automatically. 
+Teradata AppCenter (AppCenter) is self-service execution platform for creating and running custom SQL, BTEQ, or Java applications (apps). These apps query data from Teradata, Aster, or Presto systems and return a result set that can include visualizations. AppCenter includes privacy settings for both apps and run results. You can run apps on demand or set up a schedule to run them automatically. 
 
 <div class="row">
  <div class="grid-4">
