@@ -13,7 +13,7 @@ When you log in as Admin, AppCenter displays one of the following in the **Overv
 
 To return to the Dashboard from any view, do the following:
 
-1. In the upper-left corner, click ![menu button](user-guide/images/menu-button.png) and then click **Overview**.
+1. In the upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click **Overview**.
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
