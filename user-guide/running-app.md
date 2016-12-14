@@ -35,6 +35,6 @@ You can run an app manually any time, or select a schedule to run the app automa
 ## Related Topics
 
 * [Creating an App](creating-app.md)
-* [Viewing Results](viewing-results.md)
-* [Sharing Results](sharing-results.md)
+* [Viewing App Results](viewing-results.md)
+* [Sharing App Results](sharing-results.md)
 * [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
