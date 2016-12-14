@@ -12,7 +12,7 @@ When you log in as Admin, AppCenter displays one of the following in the **Overv
 
 ## Admin Navigation Pane
 
-To open the Admin navigation pane, click click ![menu button](/user-guide/images/menu-button.png). The navigation pane includes the following options:
+To open the Admin navigation pane, click ![menu button](/user-guide/images/menu-button.png). The navigation pane includes the following options:
 
 ![admin nav panel](/user-guide/images/admin-nav-panel.png)
 
