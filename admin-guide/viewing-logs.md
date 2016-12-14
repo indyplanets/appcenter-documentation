@@ -16,7 +16,7 @@ When you access logs from the AppCenter menu, **System Logs** is the default log
 
   ![logs toolbar](/user-guide/images/logs-toolbar.png)
 
-  For System Logs, you can perform the following tasks:
+  With System Logs, you can perform the following tasks:
 
    - View all logs from both segments
    - Filter the logs in each segment
@@ -60,25 +60,21 @@ The default setting for number of logs per page is 50. To change this setting, d
 
 ## Viewing Audit Logs
 
-1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audti-log.png). 
+1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audti-log.png). AppCenter displays all logs by default.
 
-For Audit Logs, you can perform the following tasks:
+  With Audit Logs, you can perform the following tasks:
 
-- View all logs
-- Search for a log entry
+  - View all logs
+  - Search for a log entry
 
-#### Viewing All Audit Logs
-
-When you select **Audit Logs** in the **Logs** view, AppCenter displays all logs by default.
-
-#### Searching for Audit Logs
+### Searching for Audit Logs
 
 1. In the ![search logs box](/user-guide/images/search.png) box, start typing any part of the log entry. AppCenter filters the list as you type.
 2. To clear this search filter, click ![clear search button](/user-guide/images/clear-search.png).
 
 **Tip**:  To hide the search filter box, click ![hide search filter](/user-guide/images/hide-search-filter.png).
 
-#### Refreshing the Audit Log List
+### Refreshing the Audit Log List
 
 1. In the upper-right corner, click ![refresh logs button](/user-guide/images/refresh-logs.png).
 
