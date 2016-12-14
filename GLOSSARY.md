@@ -1,6 +1,6 @@
 # Glossary
 
-The glossary contains a list of AppCenter terms and their definitions, including abbreviation and acronymns.
+The glossary contains a list of commonly-used AppCenter terms and their definitions, including abbreviations and acronymns.
 
 | Term                | Definition                      |
 | ------              | -----------                     |
