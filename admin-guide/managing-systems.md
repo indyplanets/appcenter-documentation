@@ -1,4 +1,4 @@
-Only root users will see the **Manage Systems** option in the navigation panel. From **Manage Systems**, you can view, create, and edit Teradata, Aster, and Presto systems.
+Only Root users will see the **Manage Systems** option in the navigation panel. From **Manage Systems**, you can view, create, and edit Teradata, Aster, and Presto systems.
 
 ## Accessing Systems
 
