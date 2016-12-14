@@ -12,21 +12,16 @@ Only Admin users will see the **Logs** option in the navigation panel. The two l
 
 When you access logs from the AppCenter menu, **System Logs** is the default log. To return to the **System Logs** from the **Audit Logs**, do the following:
 
-1. In the **Logs** navigation panel, click ![system log](/user-guide/images/system-log.png). The **System Logs** view includes the following toolbar:
+1. In the **Logs** navigation panel, click ![system log](/user-guide/images/system-log.png). AppCenter displays all System Logs by default and the following toolbar:
 
   ![logs toolbar](/user-guide/images/logs-toolbar.png)
 
   With System Logs, you can perform the following tasks:
 
-   - View all logs from both segments
-   - Filter the logs in each segment
-   - Search for a log entry
-   - Refresh the log list
-   - Specify the number of log rows to appear on a page
-
-### Viewing All System Logs
-
-When you select **Logs** from the navigation panel, AppCenter displays all System Logs by default.
+   - Filter the System Logs in each segment
+   - Search for a System Log
+   - Refresh the System Logs
+   - Specify the number of System Logs rows to appear on a page
 
 ### Filtering System Logs
 
@@ -62,10 +57,10 @@ The default setting for number of logs per page is 50. To change this setting, d
 
 1. In the **Logs** navigation panel, click ![audit log](/user-guide/images/audit-log.png). AppCenter displays all Audit Logs by default.
 
-  With Audit Logs, you can perform the following tasks:
+ With Audit Logs, you can perform the following tasks:
 
-  - View all logs
-  - Search for a log entry
+  - Search for an Audit Log
+  - Refresh the System Logs
 
 ### Searching for Audit Logs
 
