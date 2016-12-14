@@ -1,11 +1,10 @@
-Depnding on user role and app status, AppCenter displays one of the following in the **Overview** (Dashboard) when you log in:
+When you log in as a regular (non-Admin) user, AppCenter displays one of the following in the **Overview** (Dashboard):
 
-| User Role          | App Status          |  Display    |
-| ------             | -----------         |  ---------  |
-| User or Admin      | No apps created yet |  Welcome quickstart card to guide you through app creation       |
-| User or Admin      | Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
-| User or Admin      | Any | Create app button (![addd button](images/add-orange.png))       |
-| Root User          | Not applicable |  LDAP settings       |
+| App Status          |  Display    |
+| -----------         |  ---------  |
+| No apps created yet |  Welcome quickstart card to guide you through app creation       |
+| Apps created |  16 most recently created apps, apps you can manage, and recent job results       |
+| Any | Create app button (![addd button](images/add-orange.png))       |
 
 ## Welcome Quickstart Card
 
