@@ -27,7 +27,7 @@ If you have not created any apps yet, AppCenter displays quickstart buttons at t
 
 14. [Optional] In the **App Permissions** card, do the following to change the defaults:
    15. To add additional Managers, begin typing the user name, click it, and then press **Enter**. Repeat this step for each additional user you want to be a Manager for the app.
-   16. To make this app public instead of private, click ![privacy on button](images/slider-on.png). Click it again to make this app private again.
+   16. To make this app public instead of private, click ![privacy on button](images/app-slider-on.png). Click it again to make this app private again.
    17. To add additional users to a private app, click the line below **Private users**, type the name of the user, and then press **Enter**. Repeat this step for each additional user you want to be a Private user.
 18. Click **Save & Continue**.
 19. Do one of the following:
