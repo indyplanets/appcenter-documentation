@@ -1,4 +1,4 @@
-A Root user can perform the following tasks:
+AppCenter automatically creates the first root user when the system services start. A Root user can perform the following tasks:
 
 * [Manage Settings](managing-settings.md)
 * [Manage Systems](managing-systems.md)
