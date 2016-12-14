@@ -27,4 +27,3 @@
     * [User](api/user.md)
 * [Troubleshooting](troubleshooting/index.md)
 * [Release Notes](release-notes.md)
-* [Glossary](GLOSSARY.md)
