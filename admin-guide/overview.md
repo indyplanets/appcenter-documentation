@@ -1,4 +1,4 @@
-When you log in, AppCenter displays one of the following in the **Overview** (Dashboard):
+When you log in as Admin, AppCenter displays one of the following in the **Overview** (Dashboard):
 
  App Status          |  Display    |
 | ------             | -----------         |  ---------  |
@@ -9,11 +9,11 @@ When you log in, AppCenter displays one of the following in the **Overview** (Da
 
 ## Welcome Quickstart Card
 
-![Dashboard with No Apps Created](images/overview-no-apps.png) 
+![Dashboard with No Apps Created](/user-guide/images/overview-no-apps.png) 
 
 To return to the Dashboard from any view, do the following:
 
-1. In the upper-left corner, click ![menu button](images/menu-button.png) and then click **Overview**.
+1. In the upper-left corner, click ![menu button](user-guide/images/menu-button.png) and then click **Overview**.
 
 ## Related Topics
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
