@@ -27,6 +27,6 @@ Only root users will see the **Manage Systems** option in the navigation panel. 
  * If the connection was not successful, modify the settings, test again, and save the domain when the connection is successful.
 
 ## Related Topics
-* [Managing Users](manage-users.md)
+* [Managing Users](managing-users.md)
 * [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 
