@@ -6,5 +6,5 @@ A Root user can perform the following tasks:
 
 
 ## Related Topics
-* [User Roles, App Permissions, and Job Results Permissions](app-permission-user-role.md)
+* [User Roles, App Permissions, and Job Results Permissions](/user-guide/app-permission-user-role.md)
 
