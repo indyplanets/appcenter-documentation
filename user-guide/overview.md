@@ -1,4 +1,4 @@
-Depnding on user role and app status, AppCenter displays one of the following in the Overview (Dashboard) when you log in:
+Depnding on user role and app status, AppCenter displays one of the following in the **Overview** (Dashboard) when you log in:
 
 | User Role          | App Status          |  Displays    |
 | ------             | -----------         |  ---------  |
