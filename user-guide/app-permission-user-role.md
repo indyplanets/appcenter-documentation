@@ -12,7 +12,7 @@ The combination of user role, app permission settings, and job results privacy s
 
 ## App Permissions
 
-App permission settings determine who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view. App permission settings are separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#share-job-results-permissions).
+App permission settings determine who has access to the apps. These permissions are available at the bottom of the **Create/Edit App** view. App permission settings are separate from job results privacy. For more information about job results privacy settings, see [Share Job Results Permissions](#job-results-permissions).
 
 | App Permission| Description |
 | ------------- | ------------- |
