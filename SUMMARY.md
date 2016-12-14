@@ -11,7 +11,7 @@
     * [Viewing Results](user-guide/viewing-results.md)
     * [Sharing Results](user-guide/sharing-results.md)
     * [Managing Apps](user-guide/managing-apps.md)
-        * [Edit an App](editing-app.md)
+        * [Editing an App](editing-app.md)
         * [Deleting an App](deleting-app.md)
 * [Admin Guide](admin-guide/index.md)
     * [Managing Settings](admin-guide/manage-settings.md)
