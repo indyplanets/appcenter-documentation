@@ -37,7 +37,7 @@ When you log into AppCenter as a Root user, AppCenter displays all users by defa
 By default, AppCenter sorts the list of users in ascending order.
 
 1. In the **User** header, do one of the following:
- * To sort by decending order (Z-A), click ![up arrow button](/user-guide/images/up-arrow.png).
+ * To sort in descending (Z-A), click ![up arrow button](/user-guide/images/up-arrow.png).
  * To restore ascending order (A-Z), click ![down arrow button](/user-guide/images/down-arrow.png).
 
 ## Promoting and Demoting users
