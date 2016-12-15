@@ -17,7 +17,6 @@ Your user role determines what appears when you first log in and the features yo
 ### Accessing AppCenter Documentation
 
 1. In the upper-right corner, click ![question button](/user-guide/images/app-question.png), and then click **Documentation.**
- * In your browser, go to: **_NEED URL_**
 
   From the AppCenter documentation, you can do the following:
   * Search the documentation by keywords
