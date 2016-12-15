@@ -1,6 +1,6 @@
 You can edit the app you are viewing or open an app from the Dashboard or **Manage Apps** view to edit it. 
 
-**Note**: Once you save an app, you canot edit the **App Type**.
+**Note**: Once you save an app, you cannot edit the **App Type**.
 
 ## Editing the App You are Viewing
 
