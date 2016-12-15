@@ -16,14 +16,13 @@ Your user role determines what appears when you first log in and the features yo
 
 ### Accessing AppCenter Documentation
 
-1. Do one of the following:
- * In the AppCenter upper-corner, click the question mark button. **_NOT THERE NOW... NEXT RELEASE?_**
+1. In the upper-right corner, click ![question button](/user-guide/images/app-question.png), and then click **Documentation.**
  * In your browser, go to: **_NEED URL_**
 
-From the AppCenter documentation, you can do the following:
-* Search the documentation by keywords
-* Download documentation to a PDF file
-* Suggest changes to the documentation (requires completion of the Dedication to Public Domain Agreement)
+  From the AppCenter documentation, you can do the following:
+  * Search the documentation by keywords
+  * Download documentation to a PDF file
+  * Suggest changes to the documentation (requires completion of the Dedication to Public Domain Agreement)
  
 #### Downloading Documentation to a PDF File
 
