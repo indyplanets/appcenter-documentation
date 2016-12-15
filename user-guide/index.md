@@ -24,13 +24,6 @@ Your user role determines what appears when you first log in and the features yo
   * Download documentation to a PDF file
   * Suggest changes to the documentation (requires completion of the Dedication to Public Domain Agreement)
  
-#### Downloading Documentation to a PDF File
-
-1. In the documentation toolbar, click **DOWNLOAD PDF**. 
-2. Do one of the following: 
- * Click **Save File** to download the PDF.
- * Click **Open with** to download and automatically open the PDF.
-
 ### Logging Out
 
 1. In the AppCenter upper-left corner, click ![menu button](/user-guide/images/menu-button.png) and then click ![logout](/user-guide/images/logout.png).
