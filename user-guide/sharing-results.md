@@ -1,4 +1,4 @@
-You can share all results, specific results, or make all results private. By default, job results are public and available to all users who have access to he app.
+You can share all results, specific results, or make all results private. By default, job results are public and available to all users who have access to the app.
 
 ## Making All Results Private and Available to only You
 
@@ -17,7 +17,7 @@ You can share all results, specific results, or make all results private. By def
 ## Making Certain Results Private and Sharing with Specific Users
 
 1. [View App Results](viewing-results.md).
-2. Click the desired `Run #...` line. and next to **Job Results** .
+2. Click the desired `Run #...` line.
 3. Under **Job Results**, click the ```View result data set...``` row and click ![share results button](images/share-results.png).
 3. Click ![privacy off button](images/slider-off.png). AppCenter turns results privacy on (![privacy on button](images/slider-on.png)).
 4. In the **Add users** field, type the name of the user you want to have access to these results and press **Enter.** Repeat this step for additional users you want to have access to these results.
