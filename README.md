@@ -10,10 +10,7 @@ Teradata AppCenter (AppCenter) is self-service execution platform for creating a
 <div class="grid-4">
  <a href="root-user-guide/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i>Root User Guide</a>
  </div>
- <div class="grid-4">
- <a href="api/index.md" class="btn btn-raised btn-block"><i class="fa fa-code"></i> APIs</a>
  </div>
-</div>
 
 ## Contributing to AppCenter Documentation
 
