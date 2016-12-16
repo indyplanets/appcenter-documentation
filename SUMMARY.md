@@ -13,7 +13,6 @@
     * [Managing Apps](user-guide/managing-apps.md)
         * [Editing an App](user-guide/editing-app.md)
         * [Deleting an App](user-guide/deleting-app.md)
-    * [Example App](user-guide/example-app.md)
 * [Admin Guide](admin-guide/index.md)
     * [Managing Users](admin-guide/managing-users.md)
     * [Viewing Logs](admin-guide/viewing-logs.md)
