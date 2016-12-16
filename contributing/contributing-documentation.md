@@ -4,5 +4,5 @@ Thank you for your interest in Teradata documentation. If you want to contribute
 
 Once you receive confirmation via email that your signed agreement has been received, submit your documentation suggestions for our review. Thank you.
 
-To review and submit the agreement, see: [Dedication to Public Domain Agreement] (https://www.hellosign.com/s/fb761368)
+To review and submit the agreement, see: <a href="https://www.hellosign.com/s/fb761368">Dedication to Public Domain Agreement</a>
 
