@@ -1,10 +1,6 @@
 # Summary
 * [Introduction](README.md)
-<<<<<<< HEAD
-* [Contributing](contributing/contributing-documentation.md)
-=======
 * [Contributing to AppCenter Documentation](contributing/contributing-documentation.md)
->>>>>>> upstream/master
 * [User Guide](user-guide/index.md)
     * [Overview](user-guide/overview.md)
     * [User Roles and Permissions](user-guide/app-permission-user-role.md)
