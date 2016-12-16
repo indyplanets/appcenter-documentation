@@ -1,6 +1,6 @@
 # Summary
 * [Introduction](README.md)
-* [Contributing to Teradata Documentation](contributing/contributing-documentation.md)
+* [Contributing to Teradata AppCenter Documentation](contributing/contributing-documentation.md)
 * [User Guide](user-guide/index.md)
     * [Overview](user-guide/overview.md)
     * [User Roles and Permissions](user-guide/app-permission-user-role.md)
