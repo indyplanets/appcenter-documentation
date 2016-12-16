@@ -1,5 +1,6 @@
 # Summary
 * [Introduction](README.md)
+* [Contributing](contributing/contributing-documentation.md)
 * [User Guide](user-guide/index.md)
     * [Overview](user-guide/overview.md)
     * [User Roles and Permissions](user-guide/app-permission-user-role.md)

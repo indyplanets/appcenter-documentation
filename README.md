@@ -16,7 +16,7 @@ Teradata AppCenter (AppCenter) is self-service execution platform for creating a
 
 All you need is a GitHub ID, and you can propose changes to the AppCenter documentation by doing the following:
 
-1. Complete the [Dedication to Public Domain Agreement (DPDA)](/contributing-documentation.md). It takes just a minute or two to complete the DPDA, and you complete it only once.
+1. Complete the [Dedication to Public Domain Agreement (DPDA)](/contributing/contributing-documentation.md). It takes just a minute or two to complete the DPDA, and you complete it only once.
 2. At the top of any documentation page, click **EDIT IN GITHUB**.
 3. Click **Fork this repository and propose changes**.
 4. Make the desired changes and submit a pull request.
