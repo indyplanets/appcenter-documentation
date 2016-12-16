@@ -1,5 +1,6 @@
 # Summary
 * [Introduction](README.md)
+* [Contributing](contributing/contributing-documentation.md)
 * [User Guide](user-guide/index.md)
     * [Overview](user-guide/overview.md)
     * [User Roles and Permissions](user-guide/app-permission-user-role.md)
@@ -20,11 +21,3 @@
     * [Managing Settings](root-user-guide/managing-settings.md)
     * [Managing Systems](root-user-guide/managing-systems.md)
     * [Managing Users](admin-guide/managing-users.md)
-* [API](api/index.md)
-    * [App](api/app.md)
-    * [Log](api/log.md)
-    * [Notification](api/notification.md)
-    * [Query](api/query.md)
-    * [System](api/system.md)
-    * [User](api/user.md)
-* [Release Notes](release-notes.md)
