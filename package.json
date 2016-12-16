@@ -4,7 +4,7 @@
   "description": "AppCenter Documentation is all contained in this repository.",
   "repository": {
     "type": "git",
-    "url": "https://git.gitbook.com/gnomeontherun/listener.git"
+    "url": "https://git.gitbook.com/teradata/appcenter.git"
   },
   "author": "Jeremy Wilken <jeremy.wilken@teradata.com>",
   "license": "MIT",
