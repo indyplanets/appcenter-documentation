@@ -27,7 +27,7 @@
             "configuration": "auto"
         },
         "downloadpdf": {
-            "base": "https://www.gitbook.com/download/pdf/book/teradata/appcenter-documentation",
+            "base": "https://www.gitbook.com/download/pdf/book/teradata/appcenter",
             "label": "Download PDF",
             "multilingual": false
         }
