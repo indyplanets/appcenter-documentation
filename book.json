@@ -16,7 +16,7 @@
         },
         "editlink": {
             "base": "https://github.com/Teradata/appcenter-documentation/edit/master",
-            "label": "Edit in GitHub",
+            "label": "",
             "multilingual": false
         },
         "snippets": {
@@ -28,7 +28,7 @@
         },
         "downloadpdf": {
             "base": "https://www.gitbook.com/download/pdf/book/teradata/appcenter",
-            "label": "Download PDF",
+            "label": "",
             "multilingual": false
         }
     }
