@@ -1,4 +1,4 @@
-<H2>Dedication to Public Domain Agreement ("This Dedication")</H2>
+<H3>Dedication to Public Domain Agreement ("This Dedication")</H3>
 
 Thank you for your interest in Teradata documentation. If you want to contribute to Teradata documentation, you must submit a Dedication to Public Domain Agreement. The process takes only a minute or two, and you need to submit "This Dedication" only once. If you already submitted one for another project, you do not need to submit it again.
 
